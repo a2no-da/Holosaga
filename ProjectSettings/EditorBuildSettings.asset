@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2be05448e2f8aee4e9d7951a9ad4535c
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 49135c4bb478cdb489502b4e7b2dc014
+  - enabled: 1
+    path: Assets/Scenes/Collection.unity
+    guid: ab356716012a354408f7ba8656e5eedc
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 7becd2ab150baad4d9e033418193a1bd
+  - enabled: 1
+    path: Assets/Scenes/UnitSelect.unity
+    guid: 818ff3f4b0503e64daae496751373a4b
+  - enabled: 1
+    path: Assets/Scenes/Artifact.unity
+    guid: 451d2f21e8d46e145bded3352255f259
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: 824edf8ac07dd944b9c79fae83405a3f
+  - enabled: 1
+    path: Assets/Scenes/Infinite Stage.unity
+    guid: 1b7483ce7e1474d4eb56a46271474335
+  - enabled: 1
+    path: Assets/Scenes/Sandbag.unity
+    guid: 7ecbe061e0a60d142b909361fce04d5d
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 46977d166258cb345bdeb0a191c2a22c, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: d0d1949a9caae1148b8fd20ec73cdf83, type: 2}

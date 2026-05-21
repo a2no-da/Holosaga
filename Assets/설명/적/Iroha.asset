@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd13b195ad117074b9cc41b9a4af8b0f, type: 3}
+  m_Name: Iroha
+  m_EditorClassIdentifier: 
+  id: 007
+  Name: "\uCE74\uC790\uB9C8 \uC774\uB85C\uD558"
+  prefab: {fileID: 3076489700327899384, guid: 96573b2038423314a9f313edc8152c0d, type: 3}
+  originprefab: {fileID: 0}
+  Power: 0
+  Hp: 0
+  unlock: "Boss stage 1 \uB3C4\uB2EC"
+  isPurchasable: 1
+  isfurea: 0
+  isop: 0
+  exp: 0
+  Holomo: 200
+  HolomoL: 50
+  MYexp: 0
+  LevelSS: 1
+  Level: 1
+  MyPrice: 0
+  HpUp: 0
+  PowerUp: 0
+  HpInUp: 0
+  PowerInUp: 0
+  descriptionKey: Iroha
+  SkinList: []
+  PatternList: []
+  role: 0
+  rolePlay: 
+  myartifact: {fileID: 0}
+  myArtifactId: 
+  sul: "\uBE44\uBC00 \uACB0\uC0AC\uC758 \uACBD\uD638\uC6D0\uC785\uB2C8\uB2E4.\n\n\uD328\uD134
+    1 - \uC804\uBC29\uC73C\uB85C \uAC15\uB825\uD55C \uAC80\uD48D\uC744 \uB0A0\uB9BD\uB2C8\uB2E4.\n\uD328\uD134
+    2 - \uC900\uBE44\uC790\uC138\uB97C \uCDE8\uD55C \uD6C4 \uC804\uBC29\uC5D0 \uC788\uB294
+    \uC720\uB2DB\uC744 \uBCA0\uC5B4 \uACBD\uC9C1\uC2DC\uD0B5\uB2C8\uB2E4. \uBC94\uC704
+    \uB0B4\uC5D0 \uC720\uB2DB\uC774 \uC5C6\uB2E4\uBA74 3\uCE78 \uC55E\uC73C\uB85C
+    \uC774\uB3D9\uD569\uB2C8\uB2E4."

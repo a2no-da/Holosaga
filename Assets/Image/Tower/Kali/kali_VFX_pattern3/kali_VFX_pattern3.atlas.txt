@@ -1,0 +1,7 @@
+kali_VFX_pattern3.png
+size:417,418
+filter:Linear,Linear
+pma:true
+일러스트3
+bounds:2,2,413,414
+offsets:4,4,422,421

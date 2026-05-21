@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd13b195ad117074b9cc41b9a4af8b0f, type: 3}
+  m_Name: Fubuki
+  m_EditorClassIdentifier: 
+  id: 13
+  Name: "\uC2DC\uB77C\uCE74\uBBF8 \uD6C4\uBD80\uD0A4"
+  prefab: {fileID: 6195688082255566451, guid: 27dac91e1002c46418498e64a72806e4, type: 3}
+  originprefab: {fileID: 6195688082255566451, guid: 27dac91e1002c46418498e64a72806e4, type: 3}
+  Power: 0
+  Hp: 0
+  unlock: "\uC0C1\uC810\uAD6C\uC785"
+  isPurchasable: 0
+  isfurea: 0
+  isop: 0
+  exp: 0
+  Holomo: 500
+  HolomoL: 50
+  MYexp: 0
+  LevelSS: 1
+  Level: 1
+  MyPrice: 800
+  HpUp: 0
+  PowerUp: 0
+  HpInUp: 0
+  PowerInUp: 0
+  descriptionKey: Fubuki
+  SkinList:
+  - skinName: "\uAE30\uBCF8"
+    skinKey: Fubuki-default
+    skinPrefab: {fileID: 6195688082255566451, guid: 27dac91e1002c46418498e64a72806e4, type: 3}
+    skin: fubuki(default)
+    isUnlocked: 0
+    price: 0
+    isselected: 1
+  - skinName: "\uAE30\uBAA8\uB178 \uD6C4\uBD80\uD0A4"
+    skinKey: Fubuki-skin1
+    skinPrefab: {fileID: 8696920067265833662, guid: bc2ba0de2aba44d4eafb805ed7faea21, type: 3}
+    skin: fubuki(kimono)
+    isUnlocked: 1
+    price: 2500
+    isselected: 0
+  - skinName: "\uBA54\uC774\uB4DC \uD6C4\uBD80\uD0A4"
+    skinKey: Fubuki-skin2
+    skinPrefab: {fileID: 4818687634640559247, guid: 85ac7b236bcead0489d718e6e2c7fad0, type: 3}
+    skin: fubuki(maid)
+    isUnlocked: 1
+    price: 2500
+    isselected: 0
+  PatternList:
+  - num: 1
+    pattern: default
+  - num: 2
+    pattern: passive
+  - num: 3
+    pattern: passive
+  - num: 3
+    pattern: active
+  role: 0
+  rolePlay: "\uC5B4\uD0DD\uCEE4"
+  myartifact: {fileID: 0}
+  myArtifactId: 
+  sul: "\uBC31\uBC1C \uB3D9\uBB3C\uADC0 \uC624\uD0C0\uCFE0 \uC5EC\uC6B0. \uC0AC\uB78C\uB4E4\uACFC
+    \uC774\uC57C\uAE30\uD558\uB294 \uAC83\uC744 \uC88B\uC544\uD574\uC11C \uC5B4\uC6B8\uB824\uC8FC\uBA74
+    \uAE30\uBED0\uD55C\uB2E4. \uB9E4\uC77C \uC990\uAC81\uAC8C \uC9C0\uB0B4\uBA74\uC11C
+    \uD1B1 \uC624\uD0C0\uCFE0 \uC544\uC774\uB3CC\uC744 \uBAA9\uD45C\uB85C \uD558\uACE0
+    \uC788\uB2E4.\n\n\uD6C4\uBD80\uD0A4\uB294 \uD3C9\uC18C \uB2E4\uB978 \uBC94\uC704\uACF5\uACA9
+    \uC720\uB2DB\uC5D0 \uBE44\uD574 \uC57D\uD55C \uB300\uC2E0, \uBCC0\uC2E0\uC744
+    \uD1B5\uD574 \uB9C9\uAC15\uD55C \uB370\uBBF8\uC9C0 \uD3EC\uD150\uC15C\uC744 \uBF50\uB0BC
+    \uC218 \uC788\uC2B5\uB2C8\uB2E4. \uAC8C\uC774\uC9C0\uB97C \uCD5C\uB300\uD55C
+    \uC798 \uAD00\uB9AC\uD558\uC5EC \uCFE0\uB85C\uCE74\uBBF8 \uD6C4\uBD80\uD0A4 \uC0C1\uD0DC\uB97C
+    \uC624\uB798 \uC720\uC9C0\uD558\uB294 \uAC83\uC774 \uAD00\uAC74\uC774\uBA70,
+    \uC774\uB97C \uC704\uD574 \uAC8C\uC774\uC9C0\uB97C \uB108\uBB34 \uB0A8\uC6A9\uD558\uC9C0
+    \uC54A\uB294 \uAC83\uC774 \uC88B\uC2B5\uB2C8\uB2E4."

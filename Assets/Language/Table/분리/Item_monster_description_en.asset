@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_monster_description_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f114cb206c4f92e4fa7cc2c0e1f545a6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 39751187402752
+    m_Localized: Iroha's emergency food.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39751250317312
+    m_Localized: Koyori's pet coyote robot.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39751250317313
+    m_Localized: Chloe's very ferocious killer whale.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39751250317314
+    m_Localized: 'An umbrella octopus with a chewy appearance.
+
+
+      Launch a powerful
+      angel ring laser forward.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39751250317315
+    m_Localized: 'Sora''s powerful teddy bear.
+
+
+      Hold the unit tight and stuns.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39751250317316
+    m_Localized: 'A creature like a marshmallow with horns.
+
+
+      Send out soul
+      beads to damage.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39751254511616
+    m_Localized: 'The bodyguard of the holoX.
+
+
+      Pattern 1 - Flys a powerful
+      sword wind forward.
+
+      Pattern 2 - After taking a ready position, cut down
+      the unit in front and stuns. If there are no units in the range, move forward
+      by 3 blocks.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39751254511617
+    m_Localized: 'The scientist of the holoX.
+
+
+      Pattern 1 - Koyori bursts 5
+      pre-buried landmines in front.
+
+      Pattern 2 - Throw 2 poison potions at
+      the random tiles. Sometimes accidentally throws the recovery pills she was
+      trying to use for emergency.
+
+      Pattern 3 - stuns 1 random unit regardless
+      of distance.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39751254511618
+    m_Localized: "The cleaner of the holoX.\n\nPattern 1 - Throw 1 dagger forward.\nPattern
+      2 \u2013 Cloe crouches down and quickly disappears. She then performs a \"Flash
+      Strike\" on three random rows.\nPattern 3 - Cloe disappears into the dark.
+      After this, it appears to 1 random unit and causes fatal damage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15609584629026816
+    m_Localized: These are Ganmo's little friends. Unlike what they look like, they
+      can't lay bomb eggs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15609584712912896
+    m_Localized: 'The executive officer of the holoX.
+
+
+      Pattern 1 - Ganmo moves
+      independently. It flies forward and, damages units in its path.
+
+      Pattern
+      2 - Lui spells a ''magic wave'' in front. After this, she fires ''magic bolt''
+      in the cross direction, and once again in the x direction.
+
+      Pattern 3
+      - Lui designates a random unit and spells ''blood drain''. it damages targeted
+      unit and drops ''blooddrop'' object. ''blooddrop'' restores HP and disappears
+      a monster or unit on the same tile.
+
+      Pattern 4 - Lui spells a ''magic
+      explosion'' on all tiles except the safe zone.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35904632197189632
+    m_Localized: "The leader of the holoX who founded it.\n\nLaplus casts 3 random
+      patterns in each phase. After a phase ends, Laplus enters a groggy state. \nDuring
+      the phase, Laplus takes only 30% of the total damage, but during the groggy
+      state, Laplus takes 150% of the damage. \nEach time a unit retires, Laplus's
+      death count increases by 1. After the groggy state ends, Laplus deals damage
+      directly to their main HP equal to 30 times the death count.\n\nPattern 1 -
+      Laplus designates a random unit periodically and summons \"Dimensional Shard.\"
+      The Dimensional Shard will explode after 10 seconds, dealing damage to the
+      target unit. Allied units can destroy the shard before it explodes to prevent
+      damage.\nPattern 2 - Laplus casts \"Doom Laser\" on all rows.\nPattern 3 -
+      Laplus summons \"Order Tiles\" corresponding to the number of units. After
+      a certain time, any unit not on its designated tile will be killed. This pattern
+      repeats three times.\nPattern 4 - Laplus summons a \"Black Hole\" that chases
+      units. The Black Hole deals random damage between 1% and 100%.\nPattern 5 -
+      Laplus casts \"Massive Dimensional Collapse\" on all tiles.\nPattern 6 - Laplus
+      casts \"Hand of Magic\" three times, followed by an X-shaped \"Doom Laser.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50764120959979520
+    m_Localized: Miko's divine beast. Its tail is hidden behind its somehow unusual
+      large body.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76447203864317952
+    m_Localized: Karas, a longtime friend of Laplace.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76447203906260992
+    m_Localized: "A chubby cat with a Hexagram pin on head.\n\nPattern 1 \u2013 Casts
+      'Lightning Magic' on a random tile to deal damage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76447203906260993
+    m_Localized: "A small battery robot of Roboco.\n\nPattern 1 \u2013 Teleports
+      forward by 2 tiles."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

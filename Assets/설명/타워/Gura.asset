@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd13b195ad117074b9cc41b9a4af8b0f, type: 3}
+  m_Name: Gura
+  m_EditorClassIdentifier: 
+  id: 5
+  Name: "\uAC00\uC6B0\uB974 \uAD6C\uB77C"
+  prefab: {fileID: 3441166120261298627, guid: f66858ea9ac09794c88ed6565d28d01c, type: 3}
+  originprefab: {fileID: 3441166120261298627, guid: f66858ea9ac09794c88ed6565d28d01c, type: 3}
+  Power: 0
+  Hp: 0
+  unlock: "\uAE30\uBCF8\uC81C\uACF5"
+  isPurchasable: 0
+  isfurea: 0
+  isop: 0
+  exp: 200
+  Holomo: 500
+  HolomoL: 50
+  MYexp: 0
+  LevelSS: 1
+  Level: 1
+  MyPrice: 800
+  HpUp: 0
+  PowerUp: 0
+  HpInUp: 0
+  PowerInUp: 0
+  descriptionKey: Gura
+  SkinList:
+  - skinName: "\uAE30\uBCF8"
+    skinKey: Gura-default
+    skinPrefab: {fileID: 3441166120261298627, guid: f66858ea9ac09794c88ed6565d28d01c, type: 3}
+    skin: gura_default
+    isUnlocked: 0
+    price: 0
+    isselected: 1
+  - skinName: "\uBAA8\uC790\uB97C \uC4F4 \uAD6C\uB77C"
+    skinKey: Gura-skin1
+    skinPrefab: {fileID: 3441166120261298627, guid: 3a3aa57a300d50c4dab7568892218e79, type: 3}
+    skin: gura(wearing hat)
+    isUnlocked: 1
+    price: 500
+    isselected: 0
+  - skinName: "\uC544\uD2C0\uB780\uD2F0\uC2A4 \uAD6C\uB77C"
+    skinKey: Gura-skin2
+    skinPrefab: {fileID: 3441166120261298627, guid: d0c228166253e254d905cc918e763d51, type: 3}
+    skin: gura(Atlantis)
+    isUnlocked: 1
+    price: 2500
+    isselected: 0
+  - skinName: "\uC0AC\uBCF5 \uAD6C\uB77C"
+    skinKey: Gura-skin3
+    skinPrefab: {fileID: 3441166120261298627, guid: e5d73f67d2c85204380fab2e21b8fa05, type: 3}
+    skin: gura(casual)
+    isUnlocked: 1
+    price: 2500
+    isselected: 0
+  PatternList:
+  - num: 1
+    pattern: default
+  - num: 2
+    pattern: passive
+  - num: 3
+    pattern: passive
+  role: 0
+  rolePlay: "\uC5B4\uD0DD\uCEE4"
+  myartifact: {fileID: 0}
+  myArtifactId: 
+  sul: "\uD574\uC800\uC5D0 \uB530\uBD84\uD568\uC744 \uB290\uB07C\uACE0 \uC778\uAC04
+    \uC138\uC0C1\uC5D0\uC11C \uC0B4\uACE0 \uC788\uB294, \uC783\uC5B4\uBC84\uB9B0
+    \uB3C4\uC2DC \uC544\uD2C0\uB780\uD2F0\uC2A4\uC758 \uD6C4\uC608.\n\n\uAD6C\uB77C\uB294
+    \uC900\uC218\uD55C \uBC94\uC704\uC640 \uB370\uBBF8\uC9C0, HP\uB97C \uAC00\uC9C4
+    \uBC38\uB7F0\uC2A4 \uD615 \uBC94\uC704\uACF5\uACA9 \uC720\uB2DB\uC785\uB2C8\uB2E4.
+    \uCD5C\uB300\uD55C \uB9CE\uC774 \uC6C0\uC9C1\uC774\uBA70 \uB2E4\uB978 \uB77C\uC778\uC744
+    \uB3D5\uB294 \uAC83\uC774 \uC88B\uC2B5\uB2C8\uB2E4. \uC5C5\uADF8\uB808\uC774\uB4DC\uB97C
+    \uD1B5\uD574 \uB354\uC6B1 \uB113\uC740 \uBC94\uC704\uC640 \uC911\uCCA9 \uB370\uBBF8\uC9C0\uB97C
+    \uAC00\uC9C8 \uC218 \uC788\uC2B5\uB2C8\uB2E4."

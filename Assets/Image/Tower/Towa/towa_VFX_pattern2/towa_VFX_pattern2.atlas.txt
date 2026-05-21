@@ -1,0 +1,17 @@
+towa_VFX_pattern2.png
+size:2114,483
+filter:Linear,Linear
+pma:true
+2
+bounds:2,344,483,137
+offsets:491,56,979,250
+3
+bounds:2,2,1963,211
+offsets:0,1,1963,216
+4
+bounds:769,215,1343,266
+offsets:368,0,1818,269
+8
+bounds:487,237,244,280
+offsets:63,59,400,400
+rotate:90

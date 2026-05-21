@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd13b195ad117074b9cc41b9a4af8b0f, type: 3}
+  m_Name: Miko
+  m_EditorClassIdentifier: 
+  id: 22
+  Name: "\uC0AC\uCFE0\uB77C \uBBF8\uCF54"
+  prefab: {fileID: 6351218976974293236, guid: 8f7b2bab1bd6c5f48a9f475817b7c579, type: 3}
+  originprefab: {fileID: 6351218976974293236, guid: 8f7b2bab1bd6c5f48a9f475817b7c579, type: 3}
+  Power: 0
+  Hp: 0
+  unlock: "\uB79C\uB364\uBC15\uC2A4"
+  isPurchasable: 0
+  isfurea: 0
+  isop: 0
+  exp: 0
+  Holomo: 500
+  HolomoL: 50
+  MYexp: 0
+  LevelSS: 1
+  Level: 1
+  MyPrice: 2000
+  HpUp: 0
+  PowerUp: 0
+  HpInUp: 0
+  PowerInUp: 0
+  descriptionKey: Miko
+  SkinList:
+  - skinName: "\uAE30\uBCF8"
+    skinKey: Miko-default
+    skinPrefab: {fileID: 6351218976974293236, guid: 8f7b2bab1bd6c5f48a9f475817b7c579, type: 3}
+    skin: miko(default)
+    isUnlocked: 0
+    price: 0
+    isselected: 1
+  - skinName: "\uC0AC\uBCF5 \uBBF8\uCF54"
+    skinKey: Miko-skin1
+    skinPrefab: {fileID: 726572657155364756, guid: bae407b9f6e5f25488cf18cb88ecb477, type: 3}
+    skin: miko(casual)
+    isUnlocked: 1
+    price: 2500
+    isselected: 0
+  PatternList:
+  - num: 1
+    pattern: default
+  - num: 2
+    pattern: passive
+  - num: 2
+    pattern: passive
+  - num: 2
+    pattern: passive
+  - num: 3
+    pattern: passive
+  role: 1
+  rolePlay: "\uD22C\uC0AC\uCCB4"
+  myartifact: {fileID: 0}
+  myArtifactId: 
+  sul: "\uC804\uB1CC \uBC9A\uAF43 \uC2E0\uC0AC\uC758 \uBB34\uB140\uB85C\uC11C \uC131\uC2E4\uD558\uAC8C
+    \uC2E0\uC744 \uBAA8\uC154\uC654\uC9C0\uB9CC, \uC2E0\uC758 \uC2EC\uBD80\uB984\uC744
+    \uBC1B\uC544 \uC77C\uBCF8\uC5D0 \uBC29\uBB38\uD588\uC744 \uB54C(\uC2EC\uBD80\uB984\uC744
+    \uD558\uB358 \uC911) \"\uD1A0\uD0A4\uB178 \uC18C\uB77C\"\uC640 \uB9CC\uB098 \uB3D9\uACBD\uC744
+    \uD488\uAC8C \uB418\uC5B4 \uBC84\uCE04\uC5BC \uBB34\uB140 \uC544\uC774\uB3CC\uC774
+    \uB418\uAE30\uB85C \uACB0\uC2EC\uD588\uB2E4.\n\n\uBBF8\uCF54\uB294 \uC640\uD0C0\uBA54\uC640
+    \uAC19\uC774 \uC11C\uD3EC\uD130 \uB2A5\uB825\uC744 \uACB8\uBE44\uD55C \uD22C\uC0AC\uCCB4
+    \uC720\uB2DB\uC785\uB2C8\uB2E4. \uC9C0\uC18D\uC801\uC73C\uB85C \uC6B4\uC138\uC885\uC774\uB97C
+    \uC120\uD0DD\uD558\uC5EC \uC544\uAD70 \uC720\uB2DB\uC744 \uB3D5\uAC70\uB098 \uBAAC\uC2A4\uD130\uC5D0\uAC8C
+    \uD53C\uD574\uB97C \uC785\uD790 \uC218 \uC788\uC73C\uBA70, '\uBC9A\uAF43\uAE38'\uC744
+    \uD1B5\uD574 \uBAAC\uC2A4\uD130\uC758 \uC9C4\uCD9C\uC744 \uBC29\uD574\uD560 \uC218
+    \uC788\uC2B5\uB2C8\uB2E4."

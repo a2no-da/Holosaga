@@ -1,0 +1,11 @@
+speed_inhence.png
+size:523,248
+filter:Linear,Linear
+pma:true
+speed_inhence_VFX_arrow
+bounds:416,136,105,110
+offsets:2,5,109,118
+speed_inhence_VFX_aura
+bounds:2,2,244,412
+offsets:139,65,525,525
+rotate:90

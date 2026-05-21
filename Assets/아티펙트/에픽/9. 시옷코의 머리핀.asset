@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 641a9fa4c2a6b024d9d5f578d7edf8c6, type: 3}
+  m_Name: "9. \uC2DC\uC637\uCF54\uC758 \uBA38\uB9AC\uD540"
+  m_EditorClassIdentifier: 
+  artifactId: ae9
+  grade: 1
+  type: 0
+  mytype: 0
+  index: 9
+  artifactName: "\uC2DC\uC637\uCF54\uC758 \uBA38\uB9AC\uD540"
+  hpplus: 0
+  hpIncrease: 10
+  Speedplus: 0
+  SpeedIncrease: 0
+  Powerplus: 0
+  PowerIncrease: 13
+  ASpeedplus: 0
+  ASpeedIncrease: 0
+  CriIncrease: 0
+  Quantity: 20
+  Price: 5
+  sprit: {fileID: -2090017251, guid: f630f4fbb649cee4490245408a4513ff, type: 3}
+  artfunction: {fileID: 11400000, guid: 7627022dea5ce2147a82b81039ca2070, type: 2}
+  vfxarti: {fileID: 5638733820921982251, guid: 63fb0062aa084c94dac18769bd3876d1, type: 3}

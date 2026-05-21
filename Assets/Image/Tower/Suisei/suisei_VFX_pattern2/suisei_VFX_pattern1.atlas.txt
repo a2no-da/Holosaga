@@ -1,0 +1,14 @@
+suisei_VFX_pattern1.png
+size:211,223
+filter:Linear,Linear
+pma:true
+2
+bounds:2,67,152,154
+offsets:2,1,156,157
+일러스트2
+bounds:2,13,52,141
+offsets:49,4,150,150
+rotate:90
+일러스트3
+bounds:156,2,53,219
+offsets:0,2,53,221

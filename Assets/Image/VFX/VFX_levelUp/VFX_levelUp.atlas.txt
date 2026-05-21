@@ -1,0 +1,10 @@
+VFX_levelUp.png
+size:223,186
+filter:Linear,Linear
+pma:true
+1
+bounds:2,2,164,75
+offsets:18,12,200,100
+2
+bounds:2,79,219,105
+offsets:7,2,231,128

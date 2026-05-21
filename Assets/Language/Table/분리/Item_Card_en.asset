@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_Card_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9468c17b4d71ffb4c91a88932a469897, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 126418915328
+    m_Localized: POWER Card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126465052672
+    m_Localized: POWER of all units is increased by 5% for all units.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126465052673
+    m_Localized: AttackSpeed Card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126465052674
+    m_Localized: AttackSpeed  increases by 4% for all units.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246976
+    m_Localized: HP Card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246977
+    m_Localized: HP increases by 30 for all units.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246978
+    m_Localized: Cooltime Reduction Card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246979
+    m_Localized: The cooltime of passive and active patterns of all units is reduced
+      by 5%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246980
+    m_Localized: Onemanshow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246981
+    m_Localized: If there is only one unit, that unit's POWER increases by 100%,
+      attack speed increases by 40%, and HP decreases by 50%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246982
+    m_Localized: Titanification
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246983
+    m_Localized: All units' HP increases by 20%. The size of the units increases
+      by 20%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246984
+    m_Localized: Sticky Trap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246985
+    m_Localized: Sticky traps are placed in the front two vertical lines. The sticky
+      traps slow down monsters by 60%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246986
+    m_Localized: Hold the Line!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246987
+    m_Localized: All units' POWER increases by 70%, HP by 20%, and attack speed by
+      30%, but switching cannot be used in any round except for the breakStage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246988
+    m_Localized: Stretching
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246989
+    m_Localized: The range of Range-Attacker units increases by 2 tiles, and their
+      attack speed increases by 20%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246990
+    m_Localized: Best Partner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246991
+    m_Localized: Unit 1 and Unit 2 each create a 3x3 range. If these ranges overlap,
+      both units' POWER increases by 30%, attack speed by 30%, and monsters within
+      the range are slowed by 50%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246992
+    m_Localized: Hold On!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246993
+    m_Localized: If there is an Range-Attacker unit on the field, all units gain
+      an HP regeneration rate of +6 HP per second.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246994
+    m_Localized: Encore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246995
+    m_Localized: If there is a supporter unit on the field, all units gain a resurrection
+      ability. Resurrected units receive a 50% attack speed buff for 5 seconds (cooldown
+      70 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246996
+    m_Localized: Juice Party
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246997
+    m_Localized: 'All units are granted the effect: "When casting a basic pattern,
+      there is a 30% chance to throw a poison vial at a random tile." The poison
+      vial deals 90 damage to the tile''s area.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246998
+    m_Localized: Ammo Supply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469246999
+    m_Localized: 'Projectile units gain the effect: "When casting a basic pattern,
+      they fire 2 magic bullets that deal damage proportional to their POWER."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469247000
+    m_Localized: Overclock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469247001
+    m_Localized: Each time an active pattern is used, all units shoot a "whirlwind
+      projectile" that deals 50 damage. Additionally, the cooldown of each active
+      pattern is reduced by 1% whenever it is used.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469247002
+    m_Localized: Heavy Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126469247003
+    m_Localized: All units' POWER increase by 50%, but their attack speed decreases
+      by 20%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1785497846779904
+    m_Localized: You will not receive any effect even if you select this. as the
+      condition is not met.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36397880783114240
+    m_Localized: 'Select the desired ability card. You can choose a total of 2 times:
+      once at Boss Stage 1 and once at Boss Stage 5.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

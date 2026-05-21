@@ -1,0 +1,11 @@
+louie_VFX_pattern4_bloodDrop.png
+size:224,176
+filter:Linear,Linear
+pma:true
+2
+bounds:2,2,172,174
+offsets:3,5,193,192
+rotate:90
+shadow
+bounds:178,14,160,44
+rotate:90

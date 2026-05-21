@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_monster_name_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ab708d87ee553af428e51d7c163d8799, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 39952404942848
+    m_Localized: Pokobe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39952455274496
+    m_Localized: Kokoro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39952455274497
+    m_Localized: Inu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39952455274498
+    m_Localized: Tacodachi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39952455274499
+    m_Localized: Ankimo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39952455274500
+    m_Localized: Poyoyo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39952455274501
+    m_Localized: Kazama Iroha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39952455274502
+    m_Localized: Hakui Koyori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39952455274503
+    m_Localized: Sakamata Cloe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15609670599675904
+    m_Localized: Tsumire & Tsukune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15609670654201856
+    m_Localized: Takane Lui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35904670180806656
+    m_Localized: La+ Darkness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50764315244335104
+    m_Localized: MikoP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76447327818584064
+    m_Localized: Karas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76447327860527104
+    m_Localized: Shiotko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76447327860527105
+    m_Localized: Robosa
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

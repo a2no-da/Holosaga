@@ -1,0 +1,14 @@
+watame_VFX_pattern2.png
+size:2982,1024
+filter:Linear,Linear
+pma:true
+1
+bounds:2,246,2765,204
+offsets:7,0,2780,204
+2
+bounds:2,738,2978,284
+3
+bounds:2,2,2534,242
+offsets:62,5,2647,252
+4
+bounds:2,452,2978,284

@@ -1,0 +1,67 @@
+rami_VFX_pattern1&2.png
+size:2031,2001
+filter:Linear,Linear
+pma:true
+1
+bounds:817,1321,678,633
+offsets:13,34,697,697
+rotate:90
+10
+bounds:730,487,691,697
+2
+bounds:1452,1422,577,577
+3
+bounds:2,127,313,314
+4
+bounds:317,274,131,167
+offsets:9,6,150,179
+5
+bounds:2,443,726,741
+offsets:2,0,728,746
+7
+bounds:1423,8,612,605
+offsets:9,7,626,618
+rotate:90
+8
+bounds:2,10,32,33
+offsets:2,2,36,36
+9
+bounds:2,1186,813,813
+offsets:12,12,837,837
+a6
+bounds:1423,622,570,697
+offsets:38,51,647,786
+ip1
+bounds:2,86,39,39
+offsets:2,2,43,43
+ip1 - 복사본
+bounds:2,45,35,39
+offsets:7,1,43,43
+ip2
+bounds:65,31,24,24
+offsets:1,1,26,25
+ip2 - 복사본
+bounds:43,101,24,24
+offsets:1,1,26,25
+ip3
+bounds:50,2,12,12
+offsets:0,0,12,13
+ip3 - 복사본
+bounds:36,2,12,12
+offsets:0,0,12,13
+ip4
+bounds:39,57,27,27
+offsets:0,1,28,29
+ip4 - 복사본
+bounds:36,16,27,27
+offsets:0,1,28,29
+ip5
+bounds:69,110,15,15
+ip5 - 복사본
+bounds:68,84,15,15
+ip6
+bounds:87,9,20,20
+offsets:0,0,21,20
+ip6 - 복사본
+bounds:65,9,20,20
+offsets:0,0,21,20

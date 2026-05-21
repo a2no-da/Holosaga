@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_unit_semiDescription_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 20b0c408f011b304c8a95e6fb516e471, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 127450714112
+    m_Localized: Marine is the most common projectile unit. She has a long range
+      but low HP, so recommend to place her back. The upgrade can increase the number
+      of bullets She fires.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127501045760
+    m_Localized: Pekora is a supporter unit who specializes in recovery and buff
+      effects. She has low HP and no attack capability, but the HP management capability
+      of the other units is superb. The upgrade can add her a buff capability.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127501045761
+    m_Localized: Flare is a projectile unit who specializes in line clear. She has
+      a long range but low HP, so recommend to place her back. The upgrade allows
+      her for a wider range of attacks.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127501045762
+    m_Localized: Noel is an range-attacker unit who has a lot of HP and high damage
+      but also has slow attack speed. She recommended to placed in the front to act
+      as a barricade for a long distance unit. The upgrade allows her to have the
+      ability to interrupt the monsters such as mob pulling and stuns.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434368
+    m_Localized: Gura is a balanced range-attacker unit with medium range, also damage
+      and HP. It's better to move her as much as possible and help other lines. The
+      upgrade allows her for wider range and overlapping damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434369
+    m_Localized: Korone is an range-attacker unit with a narrow range Instead of
+      having great focused attack capabilities. While she can perform strong damage
+      on monsters, she also has the risk of being directly hit by monster patterns
+      due to her close range. The upgrade can further strengthen her damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434370
+    m_Localized: Watame is a projectile unit who specializes in supporting long distance
+      units. It's a good idea to place her  together in a line with as many units
+      as possible. The upgrade can support the barricade of long distance units,
+      and delays the monster's approach towards the unit by slowing down them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434371
+    m_Localized: Subaru is a range-attacker unit who has a long-range and strong
+      monster-disturbing abilities. With Subaru's patterns, you can delay the monster's
+      approach by pushing them significantly instead of doing less damage. The upgrade
+      can further increase the amount of force she applies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434372
+    m_Localized: Amelia is a balanced projectile unit. She has moderate line-clearing
+      capability, while also having a particularly powerful firepower for a single
+      monster. If you have a dead unit, she also helps them revive faster.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434373
+    m_Localized: Calliope is a range-attacker unit who has a wide range of attacks
+      and the ability to get stronger over time. Default pattern is slow, but the
+      vertical range is wide, so making it easy to cover not only her own lines but
+      also the other lines.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434374
+    m_Localized: Kanata is a ranged attack unit who accumulates stacks slowly to
+      deliver a powerful blow. When Kanata dies, all stacks disappear, so it's crucial
+      to prioritize survival and maintain stacks until the boss stage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434375
+    m_Localized: Luna is a supporter unit specialized in stunning, with abilities
+      to heal and provide buffs. She can summon various types of desserts to heal
+      units and grant them different buffs. Additionally, she can deploy Lu-knight
+      at regular intervals to stun monsters and interrupt their patterns. Depending
+      on which unit she gives magic candy to, she can either enhance the overall
+      damage of the units or further boost her own stunning abilities with powerful
+      line-clearing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434376
+    m_Localized: "Fubuki is generally weaker than other range-attacker units, but
+      she can showcase immense damage potential through her transformation. The key
+      to using her effectively is to carefully manage the gauge to maintain the Kurokami
+      Fubuki state for as long as possible. To achieve this, it\u2019s important
+      not to overuse the gauge."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434377
+    m_Localized: Towa is a unit specialized in lane clearing, pulling monsters from
+      other lanes and firing piercing lasers from a distance. However, with a slow
+      attack speed and somewhat lacking power, it's best to pair her with a unit
+      that can supplement her damage when facing bosses or high-health monsters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434378
+    m_Localized: Mumei benefits from increasing her attack speed, allowing her to
+      fire more projectiles, which in turn triggers Feather Explosions more frequently.
+      Once fully upgraded, Mumei can significantly enhance her lane-clearing abilities.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434379
+    m_Localized: Lamy is a unit with a wide attack range and invincibility skills,
+      making her capable of stable play in any situation. While she doesn't deal
+      massive damage in a single blow, her sustained damage makes her highly effective
+      in the long run.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127509434380
+    m_Localized: Suisei is a balanced range-attacker unit with decent attack range
+      and area-of-effect skills. Through her active patterns, she can accumulate
+      stacks and unleash powerful attacks that can clear the entire field.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6626900816924672
+    m_Localized: Fauna is a supporter unit with wide-area healing and buffs. Through
+      Sowing, she can provide various buffs based on the unit's characteristics.
+      After upgrading, Fauna can create a wall through Rapid Growth that blocks the
+      advance of monsters, making her a great combination with projectile units that
+      can attack monsters from a distance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6626900858867712
+    m_Localized: "Ollie is a survival-oriented, range-attacker unit with long range,
+      life-steal abilities, and summons that serve as tanks. It\u2019s best to maximize
+      her survival time and maintain as many Tombstones as possible."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8131748989210624
+    m_Localized: Kobo is a projectile unit equipped with various crowd-control abilities
+      to hinder the advance of monsters. Depending on player control, she can cover
+      wide areas. Thanks to her guaranteed stun ability, she excels at restraining
+      bosses and special monsters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28207254136655872
+    m_Localized: 'Sora lacks the ability to support all units compared to other units
+      but excels at significantly boosting the performance of a single unit. She
+      is a supporter unit capable of enhancing the abilities of all units through
+      her active pattern. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28207254186987520
+    m_Localized: 'Miko, like Watame, is a projectile unit with support capabilities.
+      She continuously selects Fortune Papers to assist allied units or deal damage
+      to monsters. Additionally, she can hinder enemy advances with her "Sakura Path."  '
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

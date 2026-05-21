@@ -1,0 +1,16 @@
+mouseClick_VFX.png
+size:86,65
+filter:Linear,Linear
+pma:true
+1
+bounds:2,7,56,56
+offsets:22,22,100,100
+2
+bounds:60,38,25,24
+rotate:90
+3
+bounds:60,2,15,16
+rotate:90
+4
+bounds:60,19,17,17
+offsets:14,15,45,48

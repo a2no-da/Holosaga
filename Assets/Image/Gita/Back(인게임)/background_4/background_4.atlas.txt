@@ -1,0 +1,16 @@
+background_4.png
+size:1924,1715
+filter:Linear,Linear
+pma:true
+1
+bounds:2,903,1920,810
+offsets:0,0,1920,813
+2
+bounds:647,10,634,460
+offsets:0,1,634,461
+2-1
+bounds:2,2,643,468
+offsets:5,5,651,476
+3
+bounds:2,472,1920,429
+offsets:0,651,1920,1080

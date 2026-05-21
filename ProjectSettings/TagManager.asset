@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tower
+  - Enemy
+  - Tile
+  - AR
+  - AttackRange
+  - RS
+  - "\uB370\uC2A4\uC13C\uC138"
+  - Kabe
+  - DraggingSpine
+  - Seed
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Tile
+  - 
+  - Enemy
+  - Tower
+  - Hp
+  - Renge
+  - JP
+  - DeTower
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Consol
+  m_SortingLayers:
+  - name: Yeah
+    uniqueID: 2828228171
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 245002871
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3167144377
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 3407438251
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 3629477751
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 1196407231
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 2446402073
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 3425332627
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 1358661641
+    locked: 0
+  - name: 
+    uniqueID: 889488733
+    locked: 0
+  - name: New Layer 11
+    uniqueID: 3746050615
+    locked: 0
+  - name: UI
+    uniqueID: 3789757737
+    locked: 0

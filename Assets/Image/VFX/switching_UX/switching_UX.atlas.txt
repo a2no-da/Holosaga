@@ -1,0 +1,7 @@
+switching_UX.png
+size:195,104
+filter:Linear,Linear
+pma:true
+dust
+bounds:2,2,191,100
+offsets:19,4,222,117

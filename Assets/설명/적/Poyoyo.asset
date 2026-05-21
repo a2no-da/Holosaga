@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd13b195ad117074b9cc41b9a4af8b0f, type: 3}
+  m_Name: Poyoyo
+  m_EditorClassIdentifier: 
+  id: 006
+  Name: "\uD3EC\uC694\uC694"
+  prefab: {fileID: 3282358504961136412, guid: f6a3a6bb0feb42247a2725959f7db511, type: 3}
+  originprefab: {fileID: 0}
+  Power: 0
+  Hp: 0
+  unlock: "Stage 3-3 \uB3C4\uB2EC"
+  isPurchasable: 1
+  isfurea: 0
+  isop: 0
+  exp: 0
+  Holomo: 200
+  HolomoL: 50
+  MYexp: 0
+  LevelSS: 1
+  Level: 1
+  MyPrice: 0
+  HpUp: 0
+  PowerUp: 0
+  HpInUp: 0
+  PowerInUp: 0
+  descriptionKey: Poyoyo
+  SkinList: []
+  PatternList: []
+  role: 0
+  rolePlay: 
+  myartifact: {fileID: 0}
+  myArtifactId: 
+  sul: "\uB9C8\uC2DC\uBA5C\uB85C\uC5D0 \uBFD4\uC744 \uB2EC\uC544 \uB193\uC740 \uB4EF\uD55C
+    \uC0DD\uBA85\uCCB4\uC785\uB2C8\uB2E4.\n\n\uD328\uD134 1 - \uC601\uD63C \uAD6C\uC2AC\uC744
+    \uC3D8\uC544 \uB370\uBBF8\uC9C0\uB97C \uC90D\uB2C8\uB2E4."

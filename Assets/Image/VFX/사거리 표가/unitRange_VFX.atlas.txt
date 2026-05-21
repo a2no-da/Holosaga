@@ -1,0 +1,7 @@
+unitRange_VFX.png
+size:186,226
+filter:Linear,Linear
+pma:true
+1
+bounds:2,2,182,222
+offsets:5,3,191,228

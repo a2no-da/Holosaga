@@ -1,0 +1,10 @@
+switchingPointer_VFX.png
+size:137,86
+filter:Linear,Linear
+pma:true
+1
+bounds:86,31,53,49
+rotate:90
+2
+bounds:2,2,82,82
+offsets:1,1,84,84

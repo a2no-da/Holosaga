@@ -1,0 +1,15 @@
+iroha_VFX_pattern2.png
+size:406,177
+filter:Linear,Linear
+pma:true
+1
+bounds:2,2,173,183
+offsets:3,2,177,187
+rotate:90
+2
+bounds:359,68,107,45
+offsets:5,0,119,48
+rotate:90
+3
+bounds:187,5,170,170
+offsets:0,5,177,187

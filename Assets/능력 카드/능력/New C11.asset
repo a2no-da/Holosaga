@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe38fa4f6a1f22346bcd6b0979ae6003, type: 3}
+  m_Name: New C11
+  m_EditorClassIdentifier: 
+  WindPrefab: {fileID: 998272451348857343, guid: 1003835fe2c30254f847911161dd9ef4, type: 3}
+  WETPPrefab: {fileID: 4272286835235596269, guid: cdeed101a1a94f647939eada1335fd97, type: 3}
+  damage: 20
+  speed: 20
+  hit: 9999
+  per: 0

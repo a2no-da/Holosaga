@@ -1,0 +1,20 @@
+olie_VFX_pattern3-2.png
+size:253,511
+filter:Linear,Linear
+pma:true
+레이어 15
+bounds:197,143,54,58
+레이어 3
+bounds:2,350,159,229
+rotate:90
+레이어 9
+bounds:2,203,145,223
+rotate:90
+폴더 10
+bounds:2,6,107,195
+폴더 11 복사
+bounds:197,78,63,48
+offsets:1,0,64,48
+rotate:90
+폴더 9
+bounds:111,2,84,199

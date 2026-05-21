@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: interface_announcer_Atlas
+  m_EditorClassIdentifier: 
+  textureLoadingMode: 0
+  onDemandTextureLoader: {fileID: 0}
+  atlasFile: {fileID: 4900000, guid: 59e69a25847ebce4d8091dd791f65fc2, type: 3}
+  materials:
+  - {fileID: 2100000, guid: a67c3b551f247924a90b7c0431173fd8, type: 2}
+  - {fileID: 2100000, guid: 4481b078bbce8bc4e8ba06442a2d6b65, type: 2}
+  - {fileID: 2100000, guid: ca1d85964f949d548b9be70f388ca109, type: 2}

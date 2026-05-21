@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_unit_name_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1a82b726c89363b4a9cb2b6f596e01fd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 60999468474404864
+    m_Localized: Houshou Marine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930816
+    m_Localized: Usada Pekora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930817
+    m_Localized: Shiranui Flare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930818
+    m_Localized: Shirogane Noel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930819
+    m_Localized: Gawr Gura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930820
+    m_Localized: Inugami Korone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930821
+    m_Localized: Tsunomaki Watame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930822
+    m_Localized: Oozora Subaru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930823
+    m_Localized: Watson Amelia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930824
+    m_Localized: Mori Calliope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930825
+    m_Localized: Amane Kanata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930826
+    m_Localized: Himemori Luna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468533125120
+    m_Localized: Shirakami Fubuki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468533125121
+    m_Localized: Tokoyami Towa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63407153970909184
+    m_Localized: Nanashi Mumei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69467949851185152
+    m_Localized: Yukihana Lamy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72086243896692736
+    m_Localized: Hoshimachi Suisei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83430669671698432
+    m_Localized: Ceres Fauna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83430669717835776
+    m_Localized: Kureiji Ollie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84935319243689984
+    m_Localized: Kobo Kanaeru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105011384678846464
+    m_Localized: Tokino Sora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105011384724983808
+    m_Localized: Sakura Miko
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

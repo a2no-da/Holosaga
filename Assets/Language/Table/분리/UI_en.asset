@@ -1,0 +1,648 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 65bb5b1f1ffcfbe4db122f72cff3eb62, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18106501535600640
+    m_Localized: V.0.5.0(Early Access)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501585932288
+    m_Localized: This is the Derivative Work Game of the VTuber group 'Holo Live'.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501585932289
+    m_Localized: Choose difficulty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126592
+    m_Localized: This is the level for those who just started playing. The final
+      boss 'La+ Darkness' doesn't appear.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126593
+    m_Localized: The most common level of difficulty for normal play.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126594
+    m_Localized: Monsters are 50% stronger compared to NORMAL mode.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126595
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126596
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126597
+    m_Localized: Screen settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126598
+    m_Localized: Quality Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126599
+    m_Localized: Language settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126600
+    m_Localized: "This is the Derivative Work Game of the VTuber group 'Hololive'.\r\n\r\n\r\nTeam
+      JEONGWON\r\n\r\n  Member -\r\n\r\n        game design, art by runinzem\r\n\r\n       
+      rogrammed by a2no\r\n\r\n\r\nThose who helped us -\r\n\r\n  Play tester\r\n\r\n        
+      Ali Play\r\n\r\n\r\n  SFX provider\r\n\r\n\r\n        pixabay        ViRiX               
+      artisticdude\r\n\r\n        Skorpio        \u68EE\u7530\u4EA4\u4E00       
+      faxcorp\r\n\r\n        jwiese        qubodup        dklon        \r\n\r\n       
+      \r\n  BGM provider\r\n\r\n\r\n         (FIELD1)\r\n         \u30D5\u30A1\u30F3\u30BF\u30B8\u30FC03(\u6226\u3044\u306E\u30A2\u30FC\u30C1)
+      - \u68EE\u7530\u4EA4\u4E00\r\n\r\n         (FIELD2)\r\n         \u30D5\u30A1\u30F3\u30BF\u30B8\u30FC04(\u6226\u6144\u306E\u65CB\u5F8B)
+      - \u68EE\u7530\u4EA4\u4E00\r\n\r\n         (FIELD3)\r\n         \u30D5\u30A1\u30F3\u30BF\u30B8\u30FC05(Peaceful
+      Place) - \u68EE\u7530\u4EA4\u4E00\r\n\r\n         (BOSS)\r\n         \u30D5\u30A1\u30F3\u30BF\u30B8\u30FC15(\u99C6\u3051\u629C\u3051\u308B\u6226\u5834\u306E\u5D50)
+      - \u68EE\u7530\u4EA4\u4E00\r\n\r\n         (BOSSRAID)\r\n         \u30D5\u30A1\u30F3\u30BF\u30B8\u30FC11(bravery
+      heart) - \u68EE\u7530\u4EA4\u4E00\r\n\r\n         (MAIN)\r\n          Lady
+      of the 80's - Grand_Project"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126601
+    m_Localized: Unit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126602
+    m_Localized: Skin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126603
+    m_Localized: Field
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126604
+    m_Localized: Gacha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126605
+    m_Localized: Purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126606
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126607
+    m_Localized: Selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126608
+    m_Localized: Would you like to buy this skin?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126609
+    m_Localized: Unit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126610
+    m_Localized: Monster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126611
+    m_Localized: Unlock condition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126612
+    m_Localized: Would you like to upgrade this unit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126613
+    m_Localized: Upgrade Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126614
+    m_Localized: Game Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126615
+    m_Localized: Please fill the number of units.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126616
+    m_Localized: Please choose a unit to use. You can choose up to 4.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126617
+    m_Localized: 'Difficulty: Easy'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126618
+    m_Localized: 'Difficulty: Normal'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126619
+    m_Localized: 'Difficulty: Hard'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126620
+    m_Localized: 'Unit LevelUP: 1 ~ 5'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126621
+    m_Localized: 'Switching: V'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126622
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126623
+    m_Localized: Give up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126624
+    m_Localized: "More members of HoloX will be added as bosses soon in the future.
+      \nThanks for playing!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126625
+    m_Localized: 'UnitEXP :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126626
+    m_Localized: 'Holomoney :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126627
+    m_Localized: Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126628
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126629
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126630
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126631
+    m_Localized: You don't have enough Holomoney
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126637
+    m_Localized: For users who are playing HOLOSAGA for the first time..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126638
+    m_Localized: 'Holosaga is a defense game that anyone can easily enjoy!
+
+
+      It
+      has a simple controls, and it''s not that difficult to avoid monster''s patterns.
+
+
+      Choose
+      the unit you want and create your own unit combination to clear the stage!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126639
+    m_Localized: About the units and the COLLECTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126640
+    m_Localized: 'A unit of Hololive idols is a key player in the game.
+
+
+      Units
+      perform the patterns and damage monsters to prevent invasion (some units doesn''t
+      have damage but has a supporting skills, though). You can make units even stronger
+      through upgrades in stores.
+
+
+      COLLECTION allows you to check the information
+      about the units monsters you''ve gotten, and see how much you''ve collected
+      them. That information can be obtained when you''ve gotten a unit or encountered
+      a monster.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126641
+    m_Localized: About SHOP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126642
+    m_Localized: 'In SHOP, units can be purchased and upgraded using HOLOMONEY.
+
+
+      Some
+      units are open from the start, but if you have a locked unit, you will need
+      to purchase it as HOLOMONEY. If you upgrade the unit, you will also be able
+      to use new patterns that the unit could not use before.
+
+
+      In the unit
+      skin store, you can also purchase and use the unit''s skin. The applied skin
+      is reflected in the in-game.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126643
+    m_Localized: About UNIT SELECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126644
+    m_Localized: "When you start the game, you must first select the unit you want
+      to use in the game. \n\nYou can choose up to four units, and any number less
+      than that is possible. If you like challenges, trying to clear the game with
+      fewer units than before can be a fun factor, too.\n\nThe icon's star marks
+      lets you check the status of your unit's upgrade, and it is recommended that
+      you select a unit with a higher upgrade value as much as possible."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126645
+    m_Localized: About unit roles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126646
+    m_Localized: 'Each unit has a set role group, and it is recommended to set the
+      initial arrangement according to the set role group. The role consists of three
+      groups - Projectile, Range-Attacker, and Supporters. Each of the specialties
+      is as follows.
+
+
+      Projectile Unit - A unit that fires and attacks with
+      a projectile. All projectile units possess a maximum range.
+
+      Range-Attacker
+      Unit - A unit that attacks ''all'' monsters in a set range.
+
+      Supporter
+      units - A units that have the ability to support units, instead of having no
+      attack capability in the default pattern.
+
+
+      Projectile units and supporter
+      units have low HP on average, so it is recommended to place them in the rear,
+      and Range-attacker units have a lot of HP and a narrow range, so it is recommended
+      to place them in the front.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126647
+    m_Localized: About level-up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126648
+    m_Localized: "Defeating monsters gives you EXP, and when enough EXP points are
+      gathered, you can level up the unit's POWER and HP by pressing the number keys.
+      \n\nPOWER is a stat that makes the unit stronger, such as the attacking and
+      healing ability of the unit.\n\nAs you level up, the unit becomes stronger,
+      but the waiting time for death increases accordingly, so be careful."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126649
+    m_Localized: About Switching
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126650
+    m_Localized: 'Switching is a feature that allows you to move a unit to a different
+      tile.
+
+
+      You can activate switching by either clicking on the unit or
+      pressing the designated keys (A, S, D, F). Once switching is active, click
+      on the tile where you want to move the unit, and its position will change.
+
+
+      Use
+      switching to arrange your formation and dodge monster patterns!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126651
+    m_Localized: About Active Patterns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126652
+    m_Localized: 'Certain units have an ''active pattern'', which can be obtained
+      through unit upgrades.
+
+
+      An active pattern is a conceptual such as ''skill'',
+      which is used by the user by pressing the key down or button directly. If the
+      unit is able to use the active pattern, the icon of the active pattern appears
+      in the top GUI.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19127775963615232
+    m_Localized: The unit doesn't have enough unitExp.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26492980561416192
+    m_Localized: Would you like to buy this unit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26742962652680192
+    m_Localized: Projectile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26742962698817536
+    m_Localized: Range-attacker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26742962707206144
+    m_Localized: Supporter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728367884832768
+    m_Localized: 'A random box containing various items.
+
+
+      You can obtain a
+      random box with a certain probability when you defeat monsters, and the drop
+      rate increases with difficulty.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728367939358720
+    m_Localized: 95% chance for a certain amount of Holomoney, 4% chance for a unit,
+      1% chance for a skin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728367939358721
+    m_Localized: Already Owned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728367939358722
+    m_Localized: Open Once
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728367939358723
+    m_Localized: Open 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34731501147361280
+    m_Localized: RandomBox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34798299569950720
+    m_Localized: Not enough randomBox.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44913858110263296
+    m_Localized: Are you sure you want to exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48581200048525312
+    m_Localized: INCREASED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48581200107245568
+    m_Localized: You can raise additional stats by HOLOMONEY.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48581200107245569
+    m_Localized: Unlock at UPGRADE 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48581200107245570
+    m_Localized: Unlock at UPGRADE 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48910476127997952
+    m_Localized: 'This section describes unit roles and upgrade status.
+
+
+      The
+      role of a unit depends on the default pattern it possesses.
+
+
+      Projectile
+      - The default pattern fires a projectile.
+
+      Range-Attacker - The default
+      pattern attacks all monsters within a range.
+
+      Supporter - The default
+      pattern includes functions that assist other units.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48910476174135296
+    m_Localized: 'This section describes current stats of a unit are represented.
+
+
+      HP
+      indicates the unit''s health, and POWER indicates the unit''s attack power.
+
+      (For
+      supporter units, this represents both attack and healing power)
+
+
+      HP
+      INC and POWER INC indicate the growth rate of each stat when the unit levels
+      up in the game.
+
+
+      (Calculation formula - stat before leveling up + (initial
+      stat * INC * (LV - 1)))'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48910476174135297
+    m_Localized: 'This section describes the patterns a unit can use.
+
+
+      Default
+      patterns and passive patterns are automatically executed by the unit itself,
+      while active patterns are used by the player through key presses.
+
+
+      Patterns
+      that units can use can be unlocked through upgrades.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51804181402980352
+    m_Localized: No artifact equipped
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51804181461700608
+    m_Localized: Common Grade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51804181461700609
+    m_Localized: Rare Grade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51804181461700610
+    m_Localized: Unique Grade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51807093298532352
+    m_Localized: Estimated results
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51807093357252608
+    m_Localized: Disassembly list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51807093357252609
+    m_Localized: Common artifact piece
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51807093357252610
+    m_Localized: Rare artifact piece
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51807093357252611
+    m_Localized: Unique artifact piece
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51807093357252612
+    m_Localized: disassemble
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52167771125420032
+    m_Localized: unequip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561859854336
+    m_Localized: Unit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561931157504
+    m_Localized: Skin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561931157505
+    m_Localized: Artifact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561931157506
+    m_Localized: Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561935351808
+    m_Localized: equipping
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561935351809
+    m_Localized: disassemble
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561939546112
+    m_Localized: Please select an artifact to disassemble.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561939546113
+    m_Localized: Are you sure you want to disassemble?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561939546114
+    m_Localized: disassembling complete!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52578192630190080
+    m_Localized: Monsters become extremely powerful. Random disaster appears when
+      the game starts. You can get unique artifacts.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54941225037828096
+    m_Localized: Would you like to buy this artifact?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58076411229343744
+    m_Localized: Please choose your stat card. Each stat card boosts a specific stat
+      of the units.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58076411283869696
+    m_Localized: Please choose your ability card. Ability cards can be selected a
+      total of 2 times during Stage 1 and Stage 5.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61479216124235776
+    m_Localized: 'This is the most standard mode.
+
+
+      There are a total of five
+      stages and bosses, with difficulty ranging from EASY to EXTREME.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61479216174567424
+    m_Localized: 'This is a mode where the stage constantly appears.
+
+
+      You
+      can choose the cards that give the units special abilities.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76863567879966720
+    m_Localized: All
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76863567938686976
+    m_Localized: Projectile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76863567938686977
+    m_Localized: Range-Attacker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76863567938686978
+    m_Localized: Supporter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81048047381352448
+    m_Localized: Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90953794974093312
+    m_Localized: HoloX's invasion has been successfully repelled.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90953795028619264
+    m_Localized: The attempt to repel HoloX's invasion has failed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90961454318456832
+    m_Localized: Achievement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91159159607103488
+    m_Localized: Earned From this game...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91159159661629440
+    m_Localized: Up to 12 are displayed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91159159661629441
+    m_Localized: time it took
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93560836951871488
+    m_Localized: Last Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97512724491636736
+    m_Localized: 'This is a mini-game where bosses appear.
+
+
+      You can earn random
+      boxes each time you defeat a boss.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

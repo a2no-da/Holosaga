@@ -1,0 +1,16 @@
+koyori_VFX_pattern3_potion.png
+size:470,145
+filter:Linear,Linear
+pma:true
+flask_damaging
+bounds:290,42,88,101
+offsets:6,1,94,103
+flask_healing
+bounds:380,42,88,101
+offsets:6,1,94,103
+flask_light
+bounds:2,2,142,141
+offsets:4,5,150,150
+flask_light2
+bounds:146,2,142,141
+offsets:4,5,150,150

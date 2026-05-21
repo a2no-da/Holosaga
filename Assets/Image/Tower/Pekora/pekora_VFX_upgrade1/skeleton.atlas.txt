@@ -1,0 +1,13 @@
+skeleton.png
+size:155,36
+filter:Linear,Linear
+pma:true
+item_Carrot
+bounds:66,6,47,28
+offsets:57,65,159,155
+item_almond
+bounds:115,6,38,28
+offsets:62,63,159,155
+item_coldChicken
+bounds:2,2,62,32
+offsets:50,58,159,155

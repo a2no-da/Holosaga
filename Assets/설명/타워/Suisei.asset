@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd13b195ad117074b9cc41b9a4af8b0f, type: 3}
+  m_Name: Suisei
+  m_EditorClassIdentifier: 
+  id: 17
+  Name: "\uD638\uC2DC\uB9C8\uCE58 \uC2A4\uC774\uC138\uC774"
+  prefab: {fileID: 3770089450803761682, guid: 40ef888b9afa82b4bbda1267fa6d70f5, type: 3}
+  originprefab: {fileID: 3770089450803761682, guid: 40ef888b9afa82b4bbda1267fa6d70f5, type: 3}
+  Power: 0
+  Hp: 0
+  unlock: "\uC0C1\uC810\uAD6C\uC785"
+  isPurchasable: 0
+  isfurea: 0
+  isop: 0
+  exp: 0
+  Holomo: 500
+  HolomoL: 50
+  MYexp: 0
+  LevelSS: 1
+  Level: 1
+  MyPrice: 800
+  HpUp: 0
+  PowerUp: 0
+  HpInUp: 0
+  PowerInUp: 0
+  descriptionKey: Suisei
+  SkinList:
+  - skinName: "\uAE30\uBCF8"
+    skinKey: Suisei-default
+    skinPrefab: {fileID: 3770089450803761682, guid: 40ef888b9afa82b4bbda1267fa6d70f5, type: 3}
+    skin: suisei(default)
+    isUnlocked: 0
+    price: 0
+    isselected: 1
+  - skinName: "\uBA54\uC774\uB4DC \uC2A4\uC774\uC138\uC774"
+    skinKey: Suisei-skin1
+    skinPrefab: {fileID: 2647472297320524261, guid: 023c4970e7f0be14dbbb9746f95290fb, type: 3}
+    skin: suisei(maid)
+    isUnlocked: 1
+    price: 2500
+    isselected: 0
+  PatternList:
+  - num: 1
+    pattern: default
+  - num: 2
+    pattern: passive
+  - num: 3
+    pattern: active
+  - num: 3
+    pattern: active
+  role: 0
+  rolePlay: "\uC5B4\uD0DD\uCEE4"
+  myartifact: {fileID: 0}
+  myArtifactId: 
+  sul: "\uB178\uB798\uC640 \uC544\uC774\uB3CC\uC744 \uAC01\uBCC4\uD788 \uC0AC\uB791\uD558\uB294
+    \uBC84\uCE04\uC5BC \uC544\uC774\uB3CC. \uC5B8\uC820\uAC00 \uBB34\uB3C4\uAD00\uC5D0\uC11C
+    \uB77C\uC774\uBE0C\uB97C \uD558\uB294 \uAC83\uC744 \uAFC8\uAFB8\uBA70 \uD65C\uB3D9\uD558\uACE0
+    \uC788\uB2E4.\n\n\uC2A4\uC774\uC138\uC774\uB294 \uC900\uC218\uD55C \uC0AC\uAC70\uB9AC\uC640
+    \uBC94\uC704 \uACF5\uACA9\uC744 \uAC00\uC9C0\uACE0 \uC788\uB294 \uBC38\uB7F0\uC2A4\uD615
+    \uBC94\uC704\uACF5\uACA9 \uC720\uB2DB\uC785\uB2C8\uB2E4. \uC561\uD2F0\uBE0C \uD328\uD134\uC744
+    \uD1B5\uD574 \uC2A4\uD0DD\uC744 \uC313\uACE0, \uD544\uB4DC\uB97C \uBAA8\uB450
+    \uC815\uB9AC\uD560 \uC218 \uC788\uB294 \uAC15\uB825\uD55C \uACF5\uACA9\uC744
+    \uAC00\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."

@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Item_monster_unlockCondition Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Item_monster_unlockCondition
+  m_TableCollectionNameGuidString: dc1ba03c9a1b04740b18d3b406364222
+  m_Entries:
+  - m_Id: 39540952109056
+    m_Key: Pokobe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39541015023616
+    m_Key: Kokoro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39541015023617
+    m_Key: Inu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15609734223073280
+    m_Key: Tsumire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39541015023618
+    m_Key: Tacodachi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39541015023619
+    m_Key: Ankimo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39541015023620
+    m_Key: Poyoyo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50764286471409664
+    m_Key: Mikopi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39541015023621
+    m_Key: Iroha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39541015023622
+    m_Key: Koyori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39541015023623
+    m_Key: Cloe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15609734269210624
+    m_Key: Louie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35904668054294528
+    m_Key: Laplus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76447189620461568
+    m_Key: Crow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76447189666598912
+    m_Key: Shioko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76447189666598913
+    m_Key: Robosa
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8853002208458047521
+  references:
+    version: 2
+    RefIds:
+    - rid: 8853002208458047521
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1711704435683

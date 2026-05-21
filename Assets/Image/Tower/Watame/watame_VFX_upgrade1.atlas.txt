@@ -1,0 +1,13 @@
+watame_VFX_upgrade1.png
+size:589,151
+filter:Linear,Linear
+pma:true
+pattern1/1
+bounds:561,123,26,26
+pattern1/2
+bounds:387,16,133,172
+offsets:2,3,137,178
+rotate:90
+pattern1/3
+bounds:2,2,383,147
+offsets:143,0,526,147

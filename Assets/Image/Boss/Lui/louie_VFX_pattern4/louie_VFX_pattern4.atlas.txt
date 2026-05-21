@@ -1,0 +1,7 @@
+louie_VFX_pattern4.png
+size:311,336
+filter:Linear,Linear
+pma:true
+1
+bounds:2,2,307,332
+offsets:21,1,328,339

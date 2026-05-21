@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd13b195ad117074b9cc41b9a4af8b0f, type: 3}
+  m_Name: Mumei
+  m_EditorClassIdentifier: 
+  id: 15
+  Name: "\uB098\uB098\uC2DC \uBB34\uBA54\uC774"
+  prefab: {fileID: 9026062282966992371, guid: a0d74495d4af49e4c9c03fe3a408ca1f, type: 3}
+  originprefab: {fileID: 9026062282966992371, guid: a0d74495d4af49e4c9c03fe3a408ca1f, type: 3}
+  Power: 0
+  Hp: 0
+  unlock: "\uC0C1\uC810\uAD6C\uC785"
+  isPurchasable: 0
+  isfurea: 0
+  isop: 0
+  exp: 0
+  Holomo: 1100
+  HolomoL: 50
+  MYexp: 0
+  LevelSS: 2
+  Level: 1
+  MyPrice: 800
+  HpUp: 0
+  PowerUp: 0
+  HpInUp: 0
+  PowerInUp: 0
+  descriptionKey: Mumei
+  SkinList:
+  - skinName: "\uAE30\uBCF8"
+    skinKey: Mumei-default
+    skinPrefab: {fileID: 9026062282966992371, guid: a0d74495d4af49e4c9c03fe3a408ca1f, type: 3}
+    skin: mumei(default)
+    isUnlocked: 0
+    price: 0
+    isselected: 1
+  - skinName: "\uD391\uD0A4 \uBB34\uBA54\uC774"
+    skinKey: Mumei-skin1
+    skinPrefab: {fileID: 7827748304095808602, guid: 74d3575f4f059224d8a7d270dce763de, type: 3}
+    skin: mumei(funky)
+    isUnlocked: 1
+    price: 2500
+    isselected: 0
+  PatternList:
+  - num: 1
+    pattern: default
+  - num: 1
+    pattern: passive
+  - num: 2
+    pattern: active
+  - num: 3
+    pattern: passive
+  role: 1
+  rolePlay: "\uD22C\uC0AC\uCCB4"
+  myartifact: {fileID: 0}
+  myArtifactId: 
+  sul: "\uC218\uB9CE\uC740 \uC0AC\uAC74\uB4E4\uC758 \uC99D\uC778\uC73C\uB85C\uC11C
+    \uD0DC\uC5B4\uB09C \uBB38\uBA85\uC758 \uC218\uD638\uC790\uC774\uC790, \uBC29\uB791\uD558\uB294
+    \uC62C\uBE7C\uBBF8. \uADF8\uB140\uC758 \uB05D\uC5C6\uB294 \uC5EC\uD589\uC5D0\uC11C
+    \uACAA\uACE0 \uC78A\uC5B4\uBC84\uB9B0- \uADF8\uB140\uC758 \uC783\uC5B4\uBC84\uB9B0
+    \uAE30\uC5B5\uB4E4\uC758 \uD3B8\uAD11\uC774 \uAC00\uB054\uC529 \uD45C\uCD9C\uB418\uAE30\uB294
+    \uD558\uC9C0\uB9CC, \uC774\uC81C \uADF8\uB140\uB294 \uD558\uB8E8\uD558\uB8E8\uB97C
+    \uC990\uAE30\uB294 \uC0AC\uB791\uC2A4\uB7EC\uC6B4 \uC18C\uB140\uB2E4.\n\n\uBB34\uBA54\uC774\uB294
+    \uACF5\uACA9\uC18D\uB3C4\uB97C \uB298\uB824\uC11C, \uB9CE\uC740 \uD22C\uC0AC\uCCB4\uB97C
+    \uBC1C\uC0AC\uD558\uB294 \uAC83\uC774 \uAE43\uD138 \uD3ED\uBC1C\uC744 \uB9CE\uC774
+    \uC77C\uC73C\uD0AC \uC218 \uC788\uC5B4 \uC720\uB9AC\uD569\uB2C8\uB2E4. \uC5C5\uADF8\uB808\uC774\uB4DC\uAC00
+    \uBAA8\uB450 \uB05D\uB09C \uBB34\uBA54\uC774\uB294 \uB77C\uC778\uD074\uB9AC\uC5B4
+    \uB2A5\uB825\uC744 \uD06C\uAC8C \uAC15\uD654\uC2DC\uD0AC \uC218 \uC788\uC2B5\uB2C8\uB2E4. "

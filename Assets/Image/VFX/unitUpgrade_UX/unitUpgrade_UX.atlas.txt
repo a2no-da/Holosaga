@@ -1,0 +1,16 @@
+unitUpgrade_UX.png
+size:176,258
+filter:Linear,Linear
+pma:true
+1
+bounds:2,190,172,66
+offsets:2,3,176,71
+2
+bounds:2,122,172,66
+offsets:2,3,176,71
+3
+bounds:2,54,172,66
+offsets:2,3,176,71
+shadow
+bounds:2,2,165,50
+offsets:17,15,200,80

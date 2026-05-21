@@ -1,0 +1,13 @@
+cloe_VFX_pattern3.png
+size:805,366
+filter:Linear,Linear
+pma:true
+cloe_VFX_pattern3/1
+bounds:337,2,282,362
+offsets:0,0,282,363
+cloe_VFX_pattern3/2
+bounds:2,7,357,333
+rotate:90
+cloe_parts/range
+bounds:621,142,182,222
+offsets:3,2,188,226

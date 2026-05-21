@@ -1,0 +1,16 @@
+miko_VFX_pattern3.png
+size:3844,506
+filter:Linear,Linear
+pma:true
+1
+bounds:2,299,3840,205
+2
+bounds:2,2,323,295
+offsets:13,41,349,348
+3
+bounds:327,32,1920,265
+offsets:0,5,1920,275
+4
+bounds:2249,267,30,41
+offsets:3,5,35,49
+rotate:90

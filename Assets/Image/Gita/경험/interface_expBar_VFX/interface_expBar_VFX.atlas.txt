@@ -1,0 +1,9 @@
+interface_expBar_VFX.png
+size:573,57
+filter:Linear,Linear
+pma:true
+TEST
+bounds:314,2,257,53
+interface_expBar_VFX
+bounds:2,2,310,53
+offsets:2,2,312,57

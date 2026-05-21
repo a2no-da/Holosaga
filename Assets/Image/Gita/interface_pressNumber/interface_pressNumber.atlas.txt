@@ -1,0 +1,16 @@
+interface_pressNumber.png
+size:805,71
+filter:Linear,Linear
+pma:true
+1
+bounds:477,38,314,31
+offsets:1,1,316,32
+2
+bounds:2,2,409,34
+offsets:1,1,411,35
+3
+bounds:2,38,473,31
+offsets:1,1,475,32
+4
+bounds:413,8,390,28
+offsets:33,0,423,28

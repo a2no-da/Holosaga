@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd13b195ad117074b9cc41b9a4af8b0f, type: 3}
+  m_Name: Noel
+  m_EditorClassIdentifier: 
+  id: 4
+  Name: "\uC2DC\uB85C\uAC00\uB124 \uB178\uC5D8"
+  prefab: {fileID: 9038816484096813558, guid: e6833fa16b8de294abad5d7d207e2d52, type: 3}
+  originprefab: {fileID: 9038816484096813558, guid: e6833fa16b8de294abad5d7d207e2d52, type: 3}
+  Power: 0
+  Hp: 0
+  unlock: "\uAE30\uBCF8\uC81C\uACF5"
+  isPurchasable: 0
+  isfurea: 0
+  isop: 0
+  exp: 200
+  Holomo: 500
+  HolomoL: 50
+  MYexp: 0
+  LevelSS: 1
+  Level: 1
+  MyPrice: 800
+  HpUp: 0
+  PowerUp: 0
+  HpInUp: 0
+  PowerInUp: 0
+  descriptionKey: Noel
+  SkinList:
+  - skinName: "\uAE30\uBCF8"
+    skinKey: Noel-default
+    skinPrefab: {fileID: 9038816484096813558, guid: e6833fa16b8de294abad5d7d207e2d52, type: 3}
+    skin: noel(default)
+    isUnlocked: 0
+    price: 0
+    isselected: 1
+  - skinName: "\uC0AC\uBCF5 \uB178\uC5D8"
+    skinKey: Noel-skin1
+    skinPrefab: {fileID: 2487726534411977164, guid: 9f2547708ed7373469b0d532a0497f5d, type: 3}
+    skin: noel(plain clothes)
+    isUnlocked: 1
+    price: 2500
+    isselected: 0
+  PatternList:
+  - num: 1
+    pattern: default
+  - num: 2
+    pattern: passive
+  - num: 3
+    pattern: active
+  role: 0
+  rolePlay: "\uC5B4\uD0DD\uCEE4"
+  myartifact: {fileID: 0}
+  myArtifactId: 
+  sul: "\uB290\uAE0B\uD55C \uBAA8\uC2B5\uACFC \uB2EC\uB9AC, \uBB50\uB4E0\uC9C0 \uADFC\uB825\uC73C\uB85C
+    \uD574\uACB0\uD558\uB824\uACE0 \uD558\uB294 \uC704\uD5D8\uD55C \uBA74\uC744 \uAC00\uC9C4
+    \uB1CC\uAE4C\uC9C0 \uADFC\uC721\uC778 \uC5EC\uAE30\uC0AC.\n\n\uB178\uC5D8\uC740
+    \uCCB4\uB825\uC774 \uB9CE\uACE0, \uB370\uBBF8\uC9C0\uAC00 \uB192\uC740 \uB300\uC2E0
+    \uB290\uB9B0 \uACF5\uACA9\uC18D\uB3C4\uB97C \uAC00\uC9C4 \uBC94\uC704\uACF5\uACA9
+    \uC720\uB2DB\uC785\uB2C8\uB2E4. \uC804\uBC29\uC5D0 \uBC30\uCE58\uD558\uC5EC \uC6D0\uAC70\uB9AC
+    \uC720\uB2DB\uC758 \uBC14\uB9AC\uAC8C\uC774\uD2B8 \uC5ED\uD560\uC744 \uC2DC\uD0A4\uB294
+    \uAC83\uC774 \uC88B\uC2B5\uB2C8\uB2E4. \uC5C5\uADF8\uB808\uC774\uB4DC\uB97C \uD1B5\uD574
+    \uBAB9\uBAB0\uC774, \uC2A4\uD134 \uB4F1 \uBAAC\uC2A4\uD130\uC758 \uD589\uB3D9\uC744
+    \uC81C\uC57D\uD558\uB294 \uB2A5\uB825\uC744 \uAC00\uC9C8 \uC218 \uC788\uC2B5\uB2C8\uB2E4."

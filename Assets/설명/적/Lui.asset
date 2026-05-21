@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd13b195ad117074b9cc41b9a4af8b0f, type: 3}
+  m_Name: Lui
+  m_EditorClassIdentifier: 
+  id: 011
+  Name: "\uD0C0\uCE74\uB124 \uB8E8\uC774"
+  prefab: {fileID: 1850978419153624127, guid: de479f228b2d26c41927d9dc87ca2b98, type: 3}
+  originprefab: {fileID: 0}
+  Power: 0
+  Hp: 0
+  unlock: "Boss stage 4 \uB3C4\uB2EC"
+  isPurchasable: 1
+  isfurea: 0
+  isop: 0
+  exp: 0
+  Holomo: 200
+  HolomoL: 50
+  MYexp: 0
+  LevelSS: 1
+  Level: 1
+  MyPrice: 0
+  HpUp: 0
+  PowerUp: 0
+  HpInUp: 0
+  PowerInUp: 0
+  descriptionKey: Louie
+  SkinList: []
+  PatternList: []
+  role: 0
+  rolePlay: 
+  myartifact: {fileID: 0}
+  myArtifactId: 
+  sul: "\uBE44\uBC00 \uACB0\uC0AC\uC758 \uAC04\uBD80\uC785\uB2C8\uB2E4.\n\n\uD328\uD134
+    1 - \uAC04\uBAA8\uAC00 \uB3C5\uC790\uC801\uC73C\uB85C \uC6C0\uC9C1\uC785\uB2C8\uB2E4.
+    \uC77C\uC815 \uC2DC\uAC04\uB9C8\uB2E4 \uC804\uBC29\uC744 \uD5A5\uD574 \uB0A0\uC544\uAC00\uBA70
+    \uACBD\uB85C\uC5D0 \uC788\uB294 \uC720\uB2DB\uC5D0\uAC8C \uB370\uBBF8\uC9C0\uB97C
+    \uC90D\uB2C8\uB2E4.\n\uD328\uD134 2 - \uB8E8\uC774\uAC00 \uC804\uBC29\uC5D0 '\uB9C8\uBC95
+    \uD30C\uB3D9'\uC744 \uC2DC\uC804\uD569\uB2C8\uB2E4. \uC774 \uD6C4, '\uB9C8\uBC95
+    \uAD6C\uCCB4'\uB97C \uC2ED\uC790 \uBC29\uD5A5\uC73C\uB85C \uB0A0\uB9AC\uACE0,
+    \uB2E4\uC2DC \uD55C\uBC88 x\uC790 \uBC29\uD5A5\uC73C\uB85C \uB0A0\uB9BD\uB2C8\uB2E4.\n\uD328\uD134
+    3 - \uB8E8\uC774\uAC00 \uB79C\uB364\uD55C \uC720\uB2DB\uC744 \uC9C0\uC815\uD558\uACE0
+    '\uC218\uD608'\uC744 \uC2DC\uC804\uD569\uB2C8\uB2E4. \uB300\uC0C1\uC774 \uB41C
+    \uC720\uB2DB\uC740 \uD53C\uD574\uB97C \uC785\uACE0 '\uD54F\uBC29\uC6B8' \uC624\uBE0C\uC81D\uD2B8\uB97C
+    \uB5A8\uC5B4\uD2B8\uB9BD\uB2C8\uB2E4. '\uD54F\uBC29\uC6B8'\uC740 \uAC19\uC740
+    \uD0C0\uC77C\uC5D0 \uC788\uB294 \uBAAC\uC2A4\uD130 \uB610\uB294 \uC720\uB2DB\uC744
+    \uD68C\uBCF5\uC2DC\uD0A4\uACE0 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4.\n\uD328\uD134
+    4 - \uB8E8\uC774\uAC00 \uC548\uC804\uC9C0\uB300\uB97C \uC81C\uC678\uD55C \uBAA8\uB4E0
+    \uD0C0\uC77C\uC5D0 '\uB9C8\uBC95 \uD3ED\uBC1C'\uC744 \uC2DC\uC804\uD569\uB2C8\uB2E4."

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd13b195ad117074b9cc41b9a4af8b0f, type: 3}
+  m_Name: Subaru
+  m_EditorClassIdentifier: 
+  id: 8
+  Name: "\uC624\uC624\uC870\uB77C \uC2A4\uBC14\uB8E8"
+  prefab: {fileID: 7573560241139591662, guid: 1deb8cf61c050d94b9c021c66663bbe3, type: 3}
+  originprefab: {fileID: 7573560241139591662, guid: 1deb8cf61c050d94b9c021c66663bbe3, type: 3}
+  Power: 0
+  Hp: 0
+  unlock: "\uC0C1\uC810\uAD6C\uC785"
+  isPurchasable: 0
+  isfurea: 0
+  isop: 0
+  exp: 200
+  Holomo: 500
+  HolomoL: 50
+  MYexp: 0
+  LevelSS: 1
+  Level: 1
+  MyPrice: 800
+  HpUp: 0
+  PowerUp: 0
+  HpInUp: 0
+  PowerInUp: 0
+  descriptionKey: Subaru
+  SkinList:
+  - skinName: "\uAE30\uBCF8"
+    skinKey: Subaru-default
+    skinPrefab: {fileID: 7573560241139591662, guid: 1deb8cf61c050d94b9c021c66663bbe3, type: 3}
+    skin: subaru(default)
+    isUnlocked: 0
+    price: 0
+    isselected: 1
+  - skinName: "\uC81C\uBCF5 \uC2A4\uBC14\uB8E8"
+    skinKey: Subaru-skin1
+    skinPrefab: {fileID: 8198229924534724308, guid: 37b6b6c796113de4e82adaab55aac421, type: 3}
+    skin: subaru(uniform)
+    isUnlocked: 1
+    price: 2500
+    isselected: 0
+  PatternList:
+  - num: 1
+    pattern: default
+  - num: 2
+    pattern: active
+  - num: 3
+    pattern: passive
+  role: 0
+  rolePlay: "\uC5B4\uD0DD\uCEE4"
+  myartifact: {fileID: 0}
+  myArtifactId: 
+  sul: "\uD65C\uAE30\uCC2C \uC131\uACA9\uC758 \uD1B0\uBCF4\uC774. e-sports\uBD80\uC640
+    \uC885\uD569 \uACA9\uD22C\uAE30\uBD80\uC758 \uB9E4\uB2C8\uC800\uB97C \uD558\uACE0
+    \uC788\uB2E4.\n\n\uC2A4\uBC14\uB8E8\uB294 \uAE34 \uC0AC\uAC70\uB9AC\uC640 \uB6F0\uC5B4\uB09C
+    \uBAAC\uC2A4\uD130 \uACAC\uC7AC \uB2A5\uB825\uC744 \uAC00\uC9C4 \uBC94\uC704\uACF5\uACA9
+    \uC720\uB2DB\uC785\uB2C8\uB2E4. \uC2A4\uBC14\uB8E8\uC758 \uD328\uD134\uC744 \uC801\uC808\uD788
+    \uD65C\uC6A9\uD558\uBA74, \uAC00\uD558\uB294 \uB370\uBBF8\uC9C0\uAC00 \uC801\uC5B4\uC9C0\uB294
+    \uB300\uC2E0 \uBAAC\uC2A4\uD130\uB97C \uD06C\uAC8C \uBC00\uCCD0\uB0B4\uC5B4 \uC804\uC9C4\uB825\uC744
+    \uB2A6\uCD9C \uC218 \uC788\uC2B5\uB2C8\uB2E4. \uC5C5\uADF8\uB808\uC774\uB4DC\uB97C
+    \uD1B5\uD574 \uAC00\uD558\uB294 \uD798\uC744 \uB354\uC6B1 \uB298\uB9B4 \uC218
+    \uC788\uC2B5\uB2C8\uB2E4."

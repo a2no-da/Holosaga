@@ -1,0 +1,15 @@
+subaru_VFX_pattern2_summon.png
+size:385,213
+filter:Linear,Linear
+pma:true
+2
+bounds:221,16,30,63
+offsets:2,1,33,66
+rotate:90
+3
+bounds:221,48,163,162
+offsets:4,4,171,170
+rotate:90
+effect1
+bounds:2,2,209,217
+rotate:90

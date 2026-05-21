@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: suisei_VFX_pattern3_Atlas
+  m_EditorClassIdentifier: 
+  textureLoadingMode: 0
+  onDemandTextureLoader: {fileID: 0}
+  atlasFile: {fileID: 4900000, guid: 2d8ce7c394917114fb1f740a74a6351b, type: 3}
+  materials:
+  - {fileID: 2100000, guid: d5f457c8b7d1d9d4199b3b91affeb9bd, type: 2}
+  - {fileID: 2100000, guid: 49afd70e05ef4414b9509b43ca6975e6, type: 2}
+  - {fileID: 2100000, guid: 6446e9cc62dc94f469623e0527ba3771, type: 2}

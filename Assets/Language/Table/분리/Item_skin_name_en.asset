@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_skin_name_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: b624a3d20d748104e90be4d349a2a078, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 41385472790528
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41385518927872
+    m_Localized: No coat Marine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41385518927873
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41385518927874
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41385518927875
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41385518927876
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41385518927877
+    m_Localized: Wearing hood Gura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41385518927878
+    m_Localized: Atlantis Gura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41385518927879
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41385518927880
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41385518927881
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41385518927882
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14160677726294016
+    m_Localized: Prisoner Pekora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15576665504059392
+    m_Localized: Sleepwear Watame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19253538167689216
+    m_Localized: Shacho Marine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21763731996774400
+    m_Localized: Casual Noel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22538844912455680
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30543350761754624
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30846990055608320
+    m_Localized: uniform Korone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35905979474743296
+    m_Localized: Uniform Subaru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40894173232467968
+    m_Localized: No coat Amelia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40894173278605312
+    m_Localized: PartyDress Calliope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46045967281524736
+    m_Localized: Sleepwear Flare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46045967336050688
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48669632187830272
+    m_Localized: Casual Luna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50299032180330496
+    m_Localized: Swimsuit Kanata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53033117071937536
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53033117122269184
+    m_Localized: Kimono Fubuki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57978887344721920
+    m_Localized: Casual Amelia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60946385757245440
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63395591809896448
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67153468689190912
+    m_Localized: Casual Gura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67415805992079360
+    m_Localized: Neon Towa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69456226884751360
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72074769832841216
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75691906560397312
+    m_Localized: Funky Mumei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76448783636336640
+    m_Localized: Maid Fubuki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87197479797755904
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87197479852281856
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87197479852281857
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92423202254852096
+    m_Localized: Sleepwear Lamy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92423202300989440
+    m_Localized: Maid Suisei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92423202300989441
+    m_Localized: Kimono Fauna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92423202300989442
+    m_Localized: Luxury Ollie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92423202300989443
+    m_Localized: Shaman Kobo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105810638926221312
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105810638980747264
+    m_Localized: Casual Sora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105810638980747265
+    m_Localized: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105810638980747266
+    m_Localized: Casual Miko
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

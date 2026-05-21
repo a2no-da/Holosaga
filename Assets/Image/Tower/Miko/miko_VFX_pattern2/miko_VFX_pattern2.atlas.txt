@@ -1,0 +1,70 @@
+miko_VFX_pattern2.png
+size:3472,1369
+filter:Linear,Linear
+pma:true
+1
+bounds:1592,4,654,690
+offsets:29,22,701,748
+rotate:90
+10
+bounds:387,576,791,786
+offsets:8,16,812,813
+rotate:90
+11
+bounds:2773,670,697,697
+12
+bounds:2892,409,259,259
+offsets:10,10,279,278
+3
+bounds:2165,664,703,606
+offsets:16,9,734,628
+rotate:90
+5
+bounds:1468,660,695,707
+offsets:29,16,749,749
+6
+bounds:2,400,383,967
+offsets:18,79,442,1046
+7
+bounds:2,2,396,917
+offsets:24,6,452,984
+rotate:90
+8
+bounds:1175,654,291,713
+offsets:2,12,293,775
+9
+bounds:2284,49,613,606
+offsets:0,2,614,610
+rotate:90
+a6
+bounds:951,49,525,639
+offsets:61,79,647,786
+rotate:90
+bad
+bounds:1175,588,64,153
+rotate:90
+good
+bounds:1330,588,64,153
+rotate:90
+애니메이션 폴더/3
+bounds:3153,287,158,207
+offsets:35,56,230,299
+rotate:90
+애니메이션 폴더/4
+bounds:2892,240,167,192
+offsets:27,61,230,299
+rotate:90
+애니메이션 폴더/5
+bounds:575,405,169,196
+offsets:27,61,230,299
+rotate:90
+애니메이션 폴더/6
+bounds:387,404,170,186
+offsets:24,64,230,299
+rotate:90
+애니메이션 폴더/7
+bounds:773,406,168,176
+offsets:24,72,230,299
+rotate:90
+애니메이션 폴더/일러스트
+bounds:3153,447,221,221

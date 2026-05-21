@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b59d5296455c4f144baf77146dcb6f3d
+  m_SerializeEntries:
+  - m_GUID: 65bb5b1f1ffcfbe4db122f72cff3eb62
+    m_Address: Assets/Language/LanguageTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a82b726c89363b4a9cb2b6f596e01fd
+    m_Address: Assets/Language/Table/Item Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f9e070fbd4f7594eb444aa305d056f5
+    m_Address: Assets/Language/Table/Item_unit_unlockCondition Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f012bfbe50251644b1d9879f6e54754
+    m_Address: Assets/Language/Table/Item_unit_Description Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b624a3d20d748104e90be4d349a2a078
+    m_Address: Assets/Language/Table/Item_skin_name Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54de3f38b4a938842973acdfc37bd1f4
+    m_Address: Assets/Language/Table/Item_field_name Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab708d87ee553af428e51d7c163d8799
+    m_Address: Assets/Language/Table/Item_monster_name Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc1ba03c9a1b04740b18d3b406364222
+    m_Address: Assets/Language/Table/Item_monster_unlockCondition Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f114cb206c4f92e4fa7cc2c0e1f545a6
+    m_Address: Assets/Language/Table/Item_monster_description Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 125e99b9e75c73a48879818b46a63f99
+    m_Address: Assets/Language/Table/Item_unit_pattern Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbb1a0901a5ce4e4cae5d204e21acafc
+    m_Address: Assets/Language/Table/Item_artifact Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9468c17b4d71ffb4c91a88932a469897
+    m_Address: Assets/Language/Item_Card Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20b0c408f011b304c8a95e6fb516e471
+    m_Address: Assets/Language/Table/Item_unit_semiDescription Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bf382aa595c9fd418d1b533f305bac2
+    m_Address: "Assets/Language/Table/\uBD84\uB9AC/Item_Achievement Shared Data.asset"
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 77b3e0b6c376d7d4f90b1c559ec3ac77, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ae7f55f912454594bb5b3c6006701c31, type: 2}
+    - {fileID: 11400000, guid: 3065bf2af191c4a4796c9b5546df498d, type: 2}

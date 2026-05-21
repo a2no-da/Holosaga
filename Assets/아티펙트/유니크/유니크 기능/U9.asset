@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b93fb1bd137bd0346a52122202fbc22b, type: 3}
+  m_Name: U9
+  m_EditorClassIdentifier: 
+  Chama: {fileID: 3417114591161096837, guid: 533177cfa7b51764c978b1c0f0f51126, type: 3}

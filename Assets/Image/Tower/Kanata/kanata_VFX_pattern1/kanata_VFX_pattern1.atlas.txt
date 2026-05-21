@@ -1,0 +1,7 @@
+kanata_VFX_pattern1.png
+size:81,348
+filter:Linear,Linear
+pma:true
+3
+bounds:2,2,77,344
+offsets:93,33,200,389

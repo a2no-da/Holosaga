@@ -1,0 +1,813 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_unit_pattern_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 125e99b9e75c73a48879818b46a63f99, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 99025915904
+    m_Localized: 'Upgrade 1 '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99084636160
+    m_Localized: Upgrade 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99084636161
+    m_Localized: Upgrade 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99084636162
+    m_Localized: Default pattern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99088830464
+    m_Localized: Passive pattern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99088830465
+    m_Localized: Active pattern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043184492544
+    m_Localized: Musket firing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043243212800
+    m_Localized: Marine fires one bullet forward. The bullet causes 100% of the damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043243212801
+    m_Localized: Musket triple shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043243212802
+    m_Localized: Marine fires 3 bullets forward. The bullets cause 60% damage. This
+      pattern is used as a substitute for the default pattern.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043243212803
+    m_Localized: Musket penta shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043243212804
+    m_Localized: Marine fires 5 bullets forward. The bullets cause 50% damage. This
+      pattern is used as a substitute for the default pattern.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043243212805
+    m_Localized: Carrot throw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043243212806
+    m_Localized: 'Pekora throws a carrot to the damaged unit to restore HP (Recovery
+      amount: Pekora''s POWER 100%).'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043243212807
+    m_Localized: New food Added!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407104
+    m_Localized: 'Pekora adds two new foods besides carrots.
+
+      - almond : In
+      addition to the carrot''s recovery effect, increase the unit''s POWER by 30%
+      for 4 seconds.
+
+      - Cold chicken : In addition to the carrot''s recovery
+      effect, it increases the unit''s attack speed by 30% for 4 seconds.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407105
+    m_Localized: Big Carrot Explosion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407106
+    m_Localized: 'Pekora casts a Big Carrot Explosion on the unit at the forefront.
+      The Big Carrot Explosion deals 400% damage to monsters within the area, while
+      increasing all units'' POWER by 40%, attack speed by 40%, and maximum HP by
+      40% for 7 seconds (Cooldown: 30 seconds).'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407107
+    m_Localized: Fireball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407108
+    m_Localized: Flare fires a fireball forward. The fireball deals 100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407109
+    m_Localized: Hellfire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407110
+    m_Localized: Every 4th attack, Flare casts Hellfire on the enemy with the highest
+      health. Hellfire deals 250% damage to all monsters within its range.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407111
+    m_Localized: Fire breath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407112
+    m_Localized: Flare casts Fire breath in front of her, dealing 600% damage divided
+      over 20 hits to all monsters within its range. Each time the Fire breath hits,
+      Hellfire will be cast automatically with 5% chance (cooltime 18 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407113
+    m_Localized: Mace attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407114
+    m_Localized: Noel whips Mace and causes 100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407115
+    m_Localized: Enormous power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407116
+    m_Localized: For every fourth attack, Noel whips Mace three times, dealing 360%
+      of the damage. The last attack stuns the monster for two seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407117
+    m_Localized: Shout of a Knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407118
+    m_Localized: Noel shouts loudly. It causes 150% damage to monsters within range
+      and pulls them in front of Noel  (cooltime 8 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407119
+    m_Localized: Trident stabbing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407120
+    m_Localized: Gura stabs the monster with a trident, causing 100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407121
+    m_Localized: Sea explosion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407122
+    m_Localized: Every second attack, Gura causes a sea explosion. It causes 100%
+      additional damage to monsters in range.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407123
+    m_Localized: Waterfall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407124
+    m_Localized: Every second attack, Gura creates a wave, causing 150% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407125
+    m_Localized: JabJabStraight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407126
+    m_Localized: Korone attacks 3 times. The first 2 attacks cause 100% damage, 200%
+      damage at last.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407127
+    m_Localized: Jab rush
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407128
+    m_Localized: Korone throws a flurry of jabs every 4.5 seconds, dealing 450% damage
+      split among the targets. This ability is executed even while other patterns
+      are in progress.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407129
+    m_Localized: DOOG PUNCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407130
+    m_Localized: Every time Korone causes damage to a monster, she uses DOOG PUNCH
+      with a 30% chance to cause an additional 100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407131
+    m_Localized: Harp play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407132
+    m_Localized: Watame plays the harp to create a melody. The melody causes 100%
+      damage to up to five monsters and slows them down.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407133
+    m_Localized: Exciting melody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407134
+    m_Localized: Watame plays the harp in a creative way to create melody area. On
+      melody area, Units' attack speed increases by 30%, and monsters' movespeed
+      decreases (cooltime 12 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407135
+    m_Localized: Yo-yo strike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407136
+    m_Localized: Subaru throws a yo-yo, causing 200% damage to the monster over 2
+      times. The first attack pushes the monster.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407137
+    m_Localized: Subaduck rush
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407138
+    m_Localized: A Subaduck appears and races forward. Subaduck pushes the monster
+      away and causes 150% damage (cooltime 7 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407139
+    m_Localized: Jet-engine yo-yo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407140
+    m_Localized: The push force of the yo-yo is increased by 1.5 times (this does
+      not affect the push force of Subaduck). The damage of the yo-yo's second hit
+      is increased by 50%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407141
+    m_Localized: Revolver firing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407142
+    m_Localized: Watson fires the detective's revolver, causing 100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407143
+    m_Localized: Machine-gun firing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407144
+    m_Localized: For every third attack, watson fires a machine gun and causes 450%
+      damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407145
+    m_Localized: Time acceleration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8043247407146
+    m_Localized: Watson accelerates time with her special watch, speeding up the
+      attackspeed by 40% for 15 seconds. If there is a unit that died on a pattern
+      trial, selects an random respawn point and halves the death waiting time (cooltime
+      20 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3405470138601472
+    m_Localized: Scythe swinging
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3405470188933120
+    m_Localized: Calliope whips a sickle and causes 100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3405470197321728
+    m_Localized: Soul harvest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3405470197321729
+    m_Localized: "When Calliope is on the field, there is a 5% chance to obtain a
+      soul when a monster dies. Each time a certain number of souls are collected,
+      Calliope's POWER permanently increases during that game (4 POWER per 10 souls).
+      \nDefeating a boss guarantees obtaining an enhanced soul, which grants a stack
+      equivalent to 50 regular souls."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3405470197321730
+    m_Localized: Death-sensei escort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3405470197321731
+    m_Localized: Every 4th attack, Calliope summons "Death Sensei." Death Sensei
+      initially pushes enemies back and then fires a "Death Slash" projectile in
+      front, dealing 200% damage before disappearing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3405470197321732
+    m_Localized: Death coil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3405470197321733
+    m_Localized: Calliope fires 'Death Coil' in 8 directions. Each causes 100% Damage
+      (cooltime 12 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3636951524020224
+    m_Localized: Play with Sheep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3636951578546176
+    m_Localized: At the start of the game, Watame summons the sheep. It has a lot
+      of HP instead of having no pattern to use and unable to restore its HP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10938678543618048
+    m_Localized: Angel Bat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10938678589755392
+    m_Localized: Kanata swings the bat, dealing 100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10938678589755393
+    m_Localized: Angel Ring Shuriken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10938678589755394
+    m_Localized: For every 6.5 seconds, Kanata summons 3 Angel Ring Shurikens. When
+      Kanata uses her next pattern while Angel Ring Shurikens are summoned, the shurikens
+      fly out, dealing 240% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10938678589755395
+    m_Localized: Fastball at 500km/h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10938678589755396
+    m_Localized: Kanata gains 1 "Angel Count" with each attack. When casting a pattern,
+      all accumulated Angel Counts are consumed, dealing damage equal to (consumed
+      Angel Counts x 6 + 200%) (cooldown 15 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23204322928463872
+    m_Localized: Dessert time!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23204322974601216
+    m_Localized: 'Luna summons desserts on random tiles in the back 3 rows. When
+      a unit picks up a dessert, they receive various buffs depending on the type
+      of dessert.
+
+      - Macaron: Provides a healing effect(100% of Luna''s POWER)
+      and increases the unit''s POWER by 50% for 5 seconds.
+
+      - Chocolate: Provides
+      a healing effect(100% of Luna''s POWER) and increases the unit''s attackSpeed
+      by 50% for 5 seconds.
+
+      - Gingerbread Man: Provides a healing effect(100%
+      of Luna''s POWER) and increases the unit''s HP by 50% for 5 seconds.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23204322974601217
+    m_Localized: Help me, lu-knight!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23204322974601218
+    m_Localized: Lu-knight responds to Luna's call and flies in to protect her. Lu-knight
+      deals 50% damage to the first monster it collides with, then lands behind that
+      monster. Afterward, it deals 60% damage twice, and with its final attack, it
+      deals 60% damage in a 3x3 area, stunning the monsters and then disappearing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23204322974601219
+    m_Localized: Luna Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23204322974601220
+    m_Localized: 'Luna can summon a "Magic Candy" as her 10th dessert. The effects
+      of the Magic Candy change depending on which unit acquires it.
+
+      If a
+      unit other than Luna acquires it: Increases the POWER, attack speed, and HP
+      of all units except Luna by 50% for 7 seconds.
+
+      If Luna acquires it:
+      Luna enters "Luna Time" along with the above buff effects. During Luna Time,
+      Lu-knight is summoned on 10 random tiles, and the default pattern is replaced
+      with "Help me, lu-knight!" for the duration.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33428040371900416
+    m_Localized: Fubuki performs a scratch attack to the front, dealing 100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33428040409649152
+    m_Localized: Fox Scratch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33428040409649153
+    m_Localized: 'Fubuki draws her katana and unleashes a blade storm to the front,
+      dealing 150% damage. When this pattern is used, Fubuki recovers 2% of the Dark
+      Gauge.
+
+
+      (While in Kurokami transformation) unleashes two blade storms
+      to the front, each dealing 150% damage. The Dark Gauge is not recovered.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33428040409649154
+    m_Localized: Katana Wind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33428040409649155
+    m_Localized: (Available during Kurokami transformation) Kurokami performs a series
+      of scratch attacks, dealing a total of 280% damage. Fubuki recovers 1/3 of
+      the damage dealt as HP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33428040409649156
+    m_Localized: Frenzied Scratch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33428040409649157
+    m_Localized: 'Fubuki uses the Dark Gauge. Fubuki automatically recovers the gauge
+      over time, and while the Dark Gauge is active, she can transform into Kurokami
+      Fubuki. During the transformation, attack speed increases by 50%.
+
+
+      While
+      transformed into Kurokami, the gauge gradually decreases. When the gauge reaches
+      zero, she instantly reverts to Shirakami and enters a dormant state for 15
+      seconds. During the dormant state, she cannot transform into Kurokami, but
+      after the dormant state ends, the gauge recovers by 30%.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33428040409649158
+    m_Localized: Kurokami Fubuki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41341107852251136
+    m_Localized: Laser Rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41341107902582784
+    m_Localized: Towa fires laser rifle forward, causing 100% damage to up to 3 monsters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41341107906777088
+    m_Localized: Devil's Kiss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41341107906777089
+    m_Localized: 'For every 4th attack, Towa shoots a powerful laser forward, causing
+      200% damage to enemy monsters, and restoring the HP of ally units (Recovery
+      amount: Towa''s POWER 50%).'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41341107906777090
+    m_Localized: Attraction of Fascination
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41341107906777091
+    m_Localized: Towa throws a grenade in front. The grenade creates a 'black hole'
+      object at the point where it first hits the monster. The black hole continuously
+      attracts monsters within the 3X3 range, causing a total of 300% damage (cooldown
+      18 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43790346188460032
+    m_Localized: Ancient Feather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43790346230403072
+    m_Localized: Mumei fires a single 'feather projectile' imbued with special power,
+      dealing 100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43790346230403073
+    m_Localized: Feather Explosion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43790346230403074
+    m_Localized: Each time the feather projectile hits a monster, one feather gets
+      stuck in the monster. When 3 feathers are stuck, it triggers an explosion,
+      dealing 150% damage to the enemy and removing all stuck feathers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43790346230403075
+    m_Localized: Power of Bonds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43790346230403076
+    m_Localized: Mumei awakens the power of her friends, enhancing her default pattern.
+      For 10 seconds, her attack speed is increased by 30%, and the number of feather
+      projectiles she can fire is increased to 3 (cooldown 15 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43790346230403077
+    m_Localized: Feather FLOWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43790346230403078
+    m_Localized: The damage of Feather Explosion is increased to 250%. Each time
+      a Feather Explosion occurs, 5 'piercing feather projectiles' are additionally
+      fired behind the monster. The piercing feather projectiles deal 50% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49851155280793600
+    m_Localized: Flower in a snow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49851155331125248
+    m_Localized: Lamy continuously summons a blizzard, dealing 20% damage to monsters
+      within a 3x3 area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49851155331125249
+    m_Localized: Frost Explosion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49851155331125250
+    m_Localized: Lamy causes a frost explosion, dealing 100% damage to monsters within
+      a 3x3 area. When on a fire floor, it changes to a flame explosion, dealing
+      200% damage to monsters within a 5x5 area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49851155331125251
+    m_Localized: Bottle of Sake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49851155331125252
+    m_Localized: Every 20 seconds, Lamy drinks sake to forget the cold and changes
+      the blizzard to a fire floor. The fire floor deals 40% damage to monsters within
+      a 5x5 area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49851155331125253
+    m_Localized: Snowstorm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49851155331125254
+    m_Localized: Lamy surrounds herself with ice, becoming immune to damage for 6
+      seconds, and summons a blizzard that deals a total of 900% damage to all monsters
+      on the map (cooldown 35 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52469118219554816
+    m_Localized: Melody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52469118269886464
+    m_Localized: Suisei sings a song to unleash a sonic attack, dealing 100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52469118269886465
+    m_Localized: Sui-chopath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52469118269886466
+    m_Localized: Suisei throws a golden axe, dealing 150% damage. The golden axe
+      projectile bounces whenever it hits the edge of the map and persists for 7
+      seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52469118269886467
+    m_Localized: piece of the star
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52469118269886468
+    m_Localized: Suisei summons star fragments from the sky, dealing 300% damage.
+      If a monster is defeated by this pattern, a Stardust stack is earned. Once
+      50 Stardust stacks are collected, the pattern changes to the 'Comet' pattern
+      (cooldown 12 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52469118269886469
+    m_Localized: Comet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52469118269886470
+    m_Localized: Suisei summons a comet onto the field, dealing 600% damage to all
+      monsters and stunning them for 5 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857250349056
+    m_Localized: Tree of Life
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292096
+    m_Localized: 'Fauna grows the Tree of Life, which can grow up to 3 stages. At
+      stage 3, if the default pattern is used again, a "Wind of Life" blows, healing
+      allied units within a 5x5 range. Afterward, the tree disappears, and on the
+      next use of the default pattern, it begins growing again from stage 1. (Healing
+      Amount: 100% of Fauna''s POWER).'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292097
+    m_Localized: Sowing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292098
+    m_Localized: Each time "Wind of Life" activates, all units receiving the healing
+      effect are targeted with Sowing. Units that have been sown can grow plants
+      alongside Fauna and receive different seeds depending on their role type. The
+      plants grow in tandem with Fauna's Tree of Life, reaching up to 3 stages. At
+      stage 3, they provide a buff effect to units within a 3x3 range. Fauna herself
+      does not receive the buff effect.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292099
+    m_Localized: Rapid Growth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292100
+    m_Localized: Fauna creates a tree wall in front of her for 4 seconds, blocking
+      the advance of monsters. While the tree wall is up, the attack speed of Fauna
+      and all units increases by 80%. (Cooldown 20 seconds).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292101
+    m_Localized: Zombie Slash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292102
+    m_Localized: Ollie performs a slashing attack forward, dealing 100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292103
+    m_Localized: Relentless Vitality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292104
+    m_Localized: Each time Ollie deals damage, she recovers 5% of that damage as
+      HP. However, Ollie cannot regenerate HP on her own.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292105
+    m_Localized: Zomrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292106
+    m_Localized: For every 4th attack, Ollie summons a Zomrade at her position. Zomrade
+      grows larger each time it takes a certain amount of damage and, once fully
+      grown, explodes after 1 second, dealing 200% damage. If not triggered by damage,
+      Zomrade will automatically explode 7 seconds after summoning.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292107
+    m_Localized: Tombstone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63813857292292108
+    m_Localized: "Ollie summons a Tombstone at her position. Every 10 seconds, a
+      Doll Zombie (UDIN) is summoned from the Tombstone to fight enemy monsters.
+      There is a 20% chance for a strengthened Tombstone to appear, which summons
+      a giant Doll Zombie with enhanced stats. The HP and POWER of Doll Zombies scale
+      with Ollie\u2019s HP and POWER. Tombstone lasts for 240 seconds, and if Ollie
+      retires, all summoned Tombstones disappear (Cooldown 22 seconds)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65318533254844416
+    m_Localized: Water Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65318533292593152
+    m_Localized: Kobo fires a water bomb using her umbrella. The water bomb deals
+      100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65318533292593153
+    m_Localized: Ebb Tide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65318533292593154
+    m_Localized: If the water bomb projectile goes off-screen, it transforms into
+      a water wave projectile and returns to Kobo. The water wave projectile deals
+      200% damage and slows monsters by 30% for 3 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65318533296787456
+    m_Localized: Rain Shaman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65318533296787457
+    m_Localized: "Kobo summons a rain cloud that lasts for 10 seconds. The rain cloud
+      deals 15% damage to monsters every 0.3 seconds, and its position can be controlled
+      with the mouse. \nClicking the mouse causes the rain cloud to strike lightning,
+      dealing 250% damage to monsters within range and stunning them for 2 seconds.
+      Lightning can be used up to 3 times, and the rain cloud disappears immediately
+      after all lightning strikes are used (Cooldown 27 seconds)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320259518464
+    m_Localized: Partner Designation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655808
+    m_Localized: Sora designates the unit in front of her as a partner. If a partner
+      has already been designated, the new unit in front will replace the previous
+      partner, and the former partner effect will be removed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655809
+    m_Localized: Partner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655810
+    m_Localized: 'Sora can designate a partner with her default pattern. The designated
+      partner recovers HP and gains a 50% attack speed boost for 7 seconds whenever
+      Sora uses her ''Partner Designation'' pattern. (Healing amount: 100% of POWER)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655811
+    m_Localized: Star Bubble
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655812
+    m_Localized: When the partner deals damage, a 'Star Bubble' projectile is fired
+      forward. The 'Star Bubble' projectile deals 20% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655813
+    m_Localized: Idol On Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655814
+    m_Localized: 'Sora creates four platforms sequentially. If Sora successfully
+      steps on all platforms, all units except Sora are designated as partners for
+      12 seconds. Additionally, during the duration, the partner buff effects are
+      enhanced. (Cooldown: 45 seconds)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655815
+    m_Localized: Sakura Flame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655816
+    m_Localized: Miko fires a Sakura Flame projectile forward, dealing 100% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655817
+    m_Localized: Fortune Paper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655818
+    m_Localized: 'Miko selects a Fortune Paper every 10 seconds. The Fortune Paper
+      is either a Lucky Paper or an Unlucky Paper, with different effects based on
+      the type selected. (Chance for Lucky Paper: 50%, Unlucky Paper: 50%)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655819
+    m_Localized: Lucky Paper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655820
+    m_Localized: 'The Lucky Paper is summoned to a random unit, forming a 3x3 area.
+      The area lasts for 3 seconds, healing units within and increasing their HP
+      by 20%. (Healing amount: 20% of POWER)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655821
+    m_Localized: Unlucky Paper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655822
+    m_Localized: 'The Unlucky Paper is summoned to a random monster, casting random
+      misfortunes in a 3x3 area.
+
+      - Misfortune_Magma: Summons magma, burning
+      monsters within the area for 3 seconds and dealing a total of 450% damage.
+
+      -
+      Misfortune_Lightning: Strikes lightning, dealing 500% damage to monsters within
+      the area and stunning them for 2 seconds.
+
+      - Misfortune_Genloss: Instantly
+      kills 3 monsters within the area. Boss monsters are excluded.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655823
+    m_Localized: Sakura Path
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85394320305655824
+    m_Localized: Whenever a Fortune Paper disappears, it creates a Sakura Path in
+      that lane for 3 seconds. Units stepping on the Sakura Path gain 30% POWER and
+      attack speed, while monsters are slowly pushed back.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

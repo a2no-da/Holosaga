@@ -1,0 +1,35 @@
+background_1.png
+size:3846,1808
+filter:Linear,Linear
+pma:true
+fog1
+bounds:2,1084,3840,324
+offsets:0,0,3840,1080
+layer1
+bounds:2,246,1920,836
+layer2
+bounds:139,1506,1406,300
+offsets:0,241,1478,600
+layer3
+bounds:1547,1443,1009,363
+offsets:0,1,1010,365
+layer4
+bounds:2558,1410,1225,396
+offsets:684,202,1909,598
+layer5
+bounds:1924,2,1920,1080
+애니메이션 폴더/1
+bounds:113,1795,24,11
+offsets:1,6,27,17
+애니메이션 폴더/2
+bounds:58,1798,26,8
+offsets:0,7,27,17
+애니메이션 폴더/3
+bounds:86,1797,25,9
+offsets:1,2,27,17
+애니메이션 폴더/4
+bounds:2,1799,27,7
+offsets:0,5,27,17
+애니메이션 폴더/5
+bounds:31,1799,25,7
+offsets:1,6,27,17

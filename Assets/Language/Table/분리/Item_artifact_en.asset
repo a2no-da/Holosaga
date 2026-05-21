@@ -1,0 +1,357 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_artifact_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cbb1a0901a5ce4e4cae5d204e21acafc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 365274065244160
+    m_Localized: Pokobe's leaf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575808
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575809
+    m_Localized: Kokoro's memory chip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575810
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575811
+    m_Localized: Inu's tube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575812
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575813
+    m_Localized: Iroha's bell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575814
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575815
+    m_Localized: Koyori's gold watch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575816
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575817
+    m_Localized: Cloe's brooch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575818
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575819
+    m_Localized: Sora's hairpin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575820
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575821
+    m_Localized: Iroha's sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575822
+    m_Localized: Each time unit casts default pattern, there is a 20% chance to fire
+      a forward 'Iroha's Sword Slash' projectile, dealing 20 damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575823
+    m_Localized: Koyori's poison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365274115575824
+    m_Localized: At the start of the game, a 'Poison Field' is summoned. The Poison
+      Field deals damage equal to '2% of the equipped unit's max HP' to nearby enemies
+      every 0.5 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6992035062452224
+    m_Localized: Tsukune's Hair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6992035104395265
+    m_Localized: Ganmo's Feather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6992035104395267
+    m_Localized: Ganmo's Necktie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6992035104395269
+    m_Localized: Takodachi's Angel Ring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6992035104395264
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6992035104395266
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6992035104395268
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6992035104395270
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696457183232
+    m_Localized: Poyoyo's Horn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709184
+    m_Localized: Every 5 seconds, fires a "Spirit Orb" that deals 10 damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709185
+    m_Localized: MikoP's Underpants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709186
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709187
+    m_Localized: Cloe's Hood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709188
+    m_Localized: Enters a "Stealth" state every 6 seconds. While in Stealth, the
+      unit ignores all damage for 2 seconds. In Stealth, the unit does not attract
+      monster aggro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709189
+    m_Localized: Lui's Coat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709190
+    m_Localized: Recovers 20% of the damage dealt by the unit as HP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709191
+    m_Localized: Spotlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709192
+    m_Localized: At the start of the game, increases the unit's POWER, HP, and SPEED
+      by (number of units equipped with this artifact x 8)%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709193
+    m_Localized: Ankimo's Cotton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709194
+    m_Localized: When taking damage, there's a 10% chance to ignore the damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709195
+    m_Localized: Takodachi's Shiny Angel Ring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709196
+    m_Localized: Fires a 'Tako-dachi Beam' every 10 seconds, dealing 50 damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709197
+    m_Localized: Laplus's Tail Core
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709198
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709199
+    m_Localized: Roboco's CPU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709200
+    m_Localized: When using an active pattern, there's a 20% chance to reset the
+      cooldown to 1 second.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709201
+    m_Localized: Coco's Fossil Footprint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13461696511709202
+    m_Localized: 'When switching units, deals damage in a 3x3 area equal to 20% of
+      the unit''s HP (cooltime: 1 seconds).'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25041743601176576
+    m_Localized: Crow's Feather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25041743651508224
+    m_Localized: No additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25041743651508225
+    m_Localized: Dartboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25041743651508226
+    m_Localized: 'There is a 5% chance to trigger a critical hit. (Critical: The
+      unit deals 200% of its normal damage.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25041743651508227
+    m_Localized: Shiotko's Hairpin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25041743651508228
+    m_Localized: When the unit deals damage, there is a 2% chance to generate a 3x3
+      electric field at the target monster's location. The electric field deals a
+      total of 90 damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25041743651508229
+    m_Localized: Robosa's Keyring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25041743651508230
+    m_Localized: 'There is a 20% chance to trigger a critical hit. (Critical: The
+      unit deals 200% of its normal damage.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25041743651508231
+    m_Localized: Botan's Sniper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25041743651508232
+    m_Localized: 'There is a 50% chance to trigger a critical hit. (Critical: The
+      unit deals 200% of its normal damage.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390650019840
+    m_Localized: Luna's Crown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390696157184
+    m_Localized: 'The fewer units chosen, the more this artifact increases the POWER
+      and HP.
+
+      (With 3 units, including the wearer) POWER increases by 10%
+
+      (With
+      2 units) POWER increases by 20%
+
+      (With 1 unit) POWER and HP increase
+      by 50%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390696157185
+    m_Localized: Risu's Acorn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390696157186
+    m_Localized: When healing HP, the healing amount increases by 50%. Units that
+      receive healing from the unit equipped with this artifact have their HP increased
+      by 20% for 5 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390696157187
+    m_Localized: Ayame's Ghost Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390696157188
+    m_Localized: Every 3 seconds, deals damage equal to 100% of the unit's POWER
+      to units within 3 tiles, including both sides. On the 3rd activation, deals
+      200% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390696157189
+    m_Localized: Kaela's Hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390696157190
+    m_Localized: Each time damage is dealt, there is a 1% chance to stun the monster
+      for 2 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390700351488
+    m_Localized: Laplus' Giant Horn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390700351489
+    m_Localized: 'When an active pattern is used, one of the following three effects
+      is applied randomly:
+
+
+      (65% chance) Increases POWER and HP by 30% for
+      5 seconds.
+
+      (20% chance) Reduces the cooldown of the active pattern by
+      50%.
+
+      (15% chance) Fires Laplace''s Destruction Laser forward, dealing
+      666 damage.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390700351490
+    m_Localized: Bijou's Gem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390700351491
+    m_Localized: Each time this unit heals, it deals damage equal to 20% of the healing
+      amount to units within a 3x3 area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390700351492
+    m_Localized: Polka's Circus Hat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390700351493
+    m_Localized: 'When an active pattern is used, one of the following two effects
+      is applied randomly:
+
+
+      (99% chance) Deals 200 damage to all monsters
+      on the field.
+
+      (1% chance) The unit retires.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390700351494
+    m_Localized: Okayu's Onigiri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36357390700351495
+    m_Localized: Gain 1 HOLOMONEY for each monster defeated.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

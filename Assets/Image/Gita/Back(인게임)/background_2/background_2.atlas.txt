@@ -1,0 +1,15 @@
+background_2.png
+size:3864,2752
+filter:Linear,Linear
+pma:true
+1
+bounds:2,1670,3860,1080
+2
+bounds:2,622,1877,1046
+offsets:26,0,1920,1080
+3
+bounds:1881,2,1479,848
+offsets:220,118,1920,1080
+4
+bounds:1881,852,1920,816
+offsets:0,0,1920,1080

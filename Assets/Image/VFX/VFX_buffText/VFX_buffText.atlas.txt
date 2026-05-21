@@ -1,0 +1,13 @@
+VFX_buffText.png
+size:890,38
+filter:Linear,Linear
+pma:true
+1
+bounds:2,2,322,34
+offsets:39,13,400,60
+2
+bounds:326,2,309,34
+offsets:46,13,400,60
+3
+bounds:637,2,251,34
+offsets:25,13,300,60

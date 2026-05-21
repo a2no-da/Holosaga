@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd13b195ad117074b9cc41b9a4af8b0f, type: 3}
+  m_Name: Watame
+  m_EditorClassIdentifier: 
+  id: 7
+  Name: "\uCE20\uB178\uB9C8\uD0A4 \uC640\uD0C0\uBA54"
+  prefab: {fileID: 8913658951801910234, guid: e2d87779dc017cf4597e2792e9dde0a3, type: 3}
+  originprefab: {fileID: 8913658951801910234, guid: e2d87779dc017cf4597e2792e9dde0a3, type: 3}
+  Power: 0
+  Hp: 0
+  unlock: "\uC0C1\uC810\uAD6C\uC785"
+  isPurchasable: 0
+  isfurea: 0
+  isop: 0
+  exp: 200
+  Holomo: 500
+  HolomoL: 50
+  MYexp: 0
+  LevelSS: 1
+  Level: 1
+  MyPrice: 800
+  HpUp: 0
+  PowerUp: 0
+  HpInUp: 0
+  PowerInUp: 0
+  descriptionKey: Watame
+  SkinList:
+  - skinName: "\uAE30\uBCF8"
+    skinKey: Watame-default
+    skinPrefab: {fileID: 8913658951801910234, guid: e2d87779dc017cf4597e2792e9dde0a3, type: 3}
+    skin: watame(default)
+    isUnlocked: 0
+    price: 0
+    isselected: 1
+  - skinName: "\uC7A0\uC637 \uC640\uD0C0\uBA54"
+    skinKey: Watame-skin1
+    skinPrefab: {fileID: 6627625694916469774, guid: b3c8a9ee6e7df9444ac16b586106bb89, type: 3}
+    skin: watame(sleepwear)
+    isUnlocked: 1
+    price: 2500
+    isselected: 0
+  PatternList:
+  - num: 1
+    pattern: default
+  - num: 2
+    pattern: active
+  - num: 3
+    pattern: passive
+  role: 1
+  rolePlay: "\uD22C\uC0AC\uCCB4"
+  myartifact: {fileID: 0}
+  myArtifactId: 
+  sul: "\uB178\uB798\uB97C \uC88B\uC544\uD558\uC5EC \uB9E4\uBC88 \uB178\uB798 \uC601\uC0C1\uC744
+    \uD22C\uACE0\uD558\uB294 \uC591 \uC18C\uB140. \uC5B8\uC820\uAC00 \uBB34\uB3C4\uAD00\uC5D0
+    \uC11C\uB294 \uAC83\uC744 \uBAA9\uD45C\uB85C \uD558\uACE0 \uC788\uB2E4. \n\n\uC640\uD0C0\uBA54\uB294
+    \uD22C\uC0AC\uCCB4 \uC720\uB2DB \uC9C0\uC6D0\uC5D0 \uD2B9\uD654\uB41C \uD22C\uC0AC\uCCB4
+    \uC720\uB2DB\uC785\uB2C8\uB2E4. \uB418\uB3C4\uB85D \uC720\uB2DB\uC774 \uB9CE\uC740
+    \uB77C\uC778\uC5D0 \uD568\uAED8 \uBC30\uCE58\uD558\uB294 \uAC83\uC774 \uC88B\uC2B5\uB2C8\uB2E4.
+    \uC5C5\uADF8\uB808\uC774\uB4DC\uB97C \uD1B5\uD574 \uC6D0\uAC70\uB9AC \uC720\uB2DB\uB4E4\uC758
+    \uBC14\uB9AC\uAC8C\uC774\uD2B8\uB97C \uC9C0\uC6D0\uD574 \uC904 \uC218 \uC788\uC73C\uBA70,
+    \uC801\uC744 \uB290\uB9AC\uAC8C \uB9CC\uB4E4\uC5B4 \uC720\uB2DB\uC5D0\uAC8C \uC811\uADFC\uD558\uB294
+    \uAC83\uC744 \uB2A6\uCD9C \uC218 \uC788\uC2B5\uB2C8\uB2E4. "

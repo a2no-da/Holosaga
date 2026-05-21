@@ -1,0 +1,14 @@
+respawn_point.png
+size:508,334
+filter:Linear,Linear
+pma:true
+body
+bounds:334,6,141,172
+offsets:78,64,300,300
+rotate:90
+light
+bounds:2,2,330,330
+offsets:9,9,348,348
+light2
+bounds:334,149,147,183
+offsets:1,1,149,185

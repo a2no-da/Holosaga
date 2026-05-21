@@ -1,0 +1,500 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 65bb5b1f1ffcfbe4db122f72cff3eb62
+  m_Entries:
+  - m_Id: 18106501535600640
+    m_Key: Main-Version
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501585932288
+    m_Key: Main-Copyright
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501585932289
+    m_Key: Main-UI-Difficult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126592
+    m_Key: Main-UI-Easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126593
+    m_Key: Main-UI-Middle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126594
+    m_Key: Main-UI-Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52578192630190080
+    m_Key: Main-UI-Extreme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61479216124235776
+    m_Key: Main-UI-Standard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61479216174567424
+    m_Key: Main-UI-Infinite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97512724491636736
+    m_Key: Main-UI-bossRaid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126595
+    m_Key: Main-Setting-BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126596
+    m_Key: Main-Setting-SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126597
+    m_Key: Main-Setting-Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126598
+    m_Key: Main-Setting-Quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126599
+    m_Key: Main-Setting-Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81048047381352448
+    m_Key: Main-Setting-Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126600
+    m_Key: Main-Credit-Credit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44913858110263296
+    m_Key: Main-Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26742962652680192
+    m_Key: Unit-Role1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26742962698817536
+    m_Key: Unit-Role2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26742962707206144
+    m_Key: Unit-Role3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126601
+    m_Key: Shop-Select-Unit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126602
+    m_Key: Shop-Select-Skin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126603
+    m_Key: Shop-Select-Field
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126604
+    m_Key: Shop-Select-Gatcha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126605
+    m_Key: Shop-Select-Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126606
+    m_Key: Shop-Select-Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126607
+    m_Key: Shop-Select-Selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26492980561416192
+    m_Key: Shop-unitBuyThis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126608
+    m_Key: Shop-skinBuyThis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48581200048525312
+    m_Key: Shop-specUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48581200107245568
+    m_Key: Shop-specDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48581200107245569
+    m_Key: Shop-unlockAt2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48581200107245570
+    m_Key: Shop-unlockAt3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48910476127997952
+    m_Key: Shop-guide1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48910476174135296
+    m_Key: Shop-guide2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48910476174135297
+    m_Key: Shop-guide3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561859854336
+    m_Key: Shop-category1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561931157504
+    m_Key: Shop-category2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561931157505
+    m_Key: Shop-category3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561931157506
+    m_Key: Shop-category4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54941225037828096
+    m_Key: Shop-ArtifactBuyThis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76863567879966720
+    m_Key: Shop-RoleCategory1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76863567938686976
+    m_Key: Shop-RoleCategory2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76863567938686977
+    m_Key: Shop-RoleCategory3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76863567938686978
+    m_Key: Shop-RoleCategory4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126609
+    m_Key: Collection-Select-Unit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126610
+    m_Key: Collection-Select-Monster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34731501147361280
+    m_Key: Collection-Select-randomBox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90961454318456832
+    m_Key: Collection-Select-Achievements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126611
+    m_Key: Collection-Unlock-Condition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126612
+    m_Key: Collection-UnitUpgThis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126613
+    m_Key: Collection-UnitUpgStatus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728367884832768
+    m_Key: Collection-randomBox1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728367939358720
+    m_Key: Collection-randomBox2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728367939358721
+    m_Key: Collection-randomBoxOverlap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728367939358722
+    m_Key: Collection-randomBoxUnboxing1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728367939358723
+    m_Key: Collection-randomBoxUnboxing2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34798299569950720
+    m_Key: Collection-randomBoxNO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126614
+    m_Key: UnitSelect-Select-Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126615
+    m_Key: UnitSelect-UnitNotChoiced
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126616
+    m_Key: UnitSelect-Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126617
+    m_Key: UnitSelect-Difficulty1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126618
+    m_Key: UnitSelect-Difficulty2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126619
+    m_Key: UnitSelect-Difficulty3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126620
+    m_Key: gameScreen-unitUpg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126621
+    m_Key: gameScreen-Switching
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126622
+    m_Key: gameScreen-Select-Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126623
+    m_Key: gameScreen-Select-giveUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58076411229343744
+    m_Key: gameScreen-Description-StatCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58076411283869696
+    m_Key: gameScreen-Description-AbilityCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126624
+    m_Key: resultScreen-EarlyAccess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126625
+    m_Key: resultScreen-expEarned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126626
+    m_Key: resultScreen-holomoneyEarned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126627
+    m_Key: resultScreen-Select-main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90953794974093312
+    m_Key: resultScreen-Clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90953795028619264
+    m_Key: resultScreen-Fail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91159159607103488
+    m_Key: resultScreen-Earned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91159159661629440
+    m_Key: resultScreen-numberLimit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91159159661629441
+    m_Key: resultScreen-timeTook
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93560836951871488
+    m_Key: resultScreen-lastStage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126628
+    m_Key: UI-Button-Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126629
+    m_Key: UI-Button-No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126630
+    m_Key: UI-Button-Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126631
+    m_Key: UI-Button-noHolomoney
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19127775963615232
+    m_Key: UI-Button-noUnitExp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51804181402980352
+    m_Key: Artifact-noArtifact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51804181461700608
+    m_Key: Artifact-common
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51804181461700609
+    m_Key: Artifact-rare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51804181461700610
+    m_Key: Artifact-unique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51807093298532352
+    m_Key: Artifact-predicted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51807093357252608
+    m_Key: Artifact-disassembleList
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51807093357252609
+    m_Key: Artifact-commonP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51807093357252610
+    m_Key: Artifact-rareP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51807093357252611
+    m_Key: Artifact-uniqueP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51807093357252612
+    m_Key: Artifact-disassemble
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52167771125420032
+    m_Key: Artifact-unEquip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561935351808
+    m_Key: Artifact-category1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561935351809
+    m_Key: Artifact-category2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561939546112
+    m_Key: Artifact-Text1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561939546113
+    m_Key: Artifact-Text2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52569561939546114
+    m_Key: Artifact-Text3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126637
+    m_Key: Guide-Title1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126638
+    m_Key: Guide-Text1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126639
+    m_Key: Guide-Title2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126640
+    m_Key: Guide-Text2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126641
+    m_Key: Guide-Title3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126642
+    m_Key: Guide-Text3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126643
+    m_Key: Guide-Title4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126644
+    m_Key: Guide-Text4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126645
+    m_Key: Guide-Title5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126646
+    m_Key: Guide-Text5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126647
+    m_Key: Guide-Title6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126648
+    m_Key: Guide-Text6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126649
+    m_Key: Guide-Title7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126650
+    m_Key: Guide-Text7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126651
+    m_Key: Guide-Title8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106501590126652
+    m_Key: Guide-Text8
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8853001963465080861
+  references:
+    version: 2
+    RefIds:
+    - rid: 8853001963465080861
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1710761269366

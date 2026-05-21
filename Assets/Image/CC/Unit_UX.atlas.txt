@@ -1,0 +1,10 @@
+Unit_UX.png
+size:223,154
+filter:Linear,Linear
+pma:true
+경직/stun_effect1
+bounds:155,83,66,69
+offsets:7,5,80,80
+경직/stun_light
+bounds:2,2,151,150
+offsets:5,4,160,160

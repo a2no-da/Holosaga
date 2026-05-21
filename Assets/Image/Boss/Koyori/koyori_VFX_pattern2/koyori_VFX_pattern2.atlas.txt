@@ -1,0 +1,17 @@
+koyori_VFX_pattern2.png
+size:426,993
+filter:Linear,Linear
+pma:true
+2
+bounds:2,432,355,355
+offsets:3,3,360,360
+3
+bounds:226,789,198,202
+offsets:91,77,377,358
+range
+bounds:2,809,182,222
+offsets:3,2,188,226
+rotate:90
+일러스트
+bounds:2,2,422,428
+offsets:68,51,558,551

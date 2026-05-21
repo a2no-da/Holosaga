@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Item_unit_name Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Item_unit_name
+  m_TableCollectionNameGuidString: 1a82b726c89363b4a9cb2b6f596e01fd
+  m_Entries:
+  - m_Id: 60999468474404864
+    m_Key: Marine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930816
+    m_Key: Pekora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930817
+    m_Key: Flare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930818
+    m_Key: Noel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930819
+    m_Key: Gura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930820
+    m_Key: Korone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930821
+    m_Key: Watame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930822
+    m_Key: Subaru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930823
+    m_Key: Watson
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930824
+    m_Key: Calliope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930825
+    m_Key: Kanata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468528930826
+    m_Key: Luna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468533125120
+    m_Key: Fubuki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60999468533125121
+    m_Key: Towa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63407153970909184
+    m_Key: Mumei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69467949851185152
+    m_Key: Rami
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72086243896692736
+    m_Key: Suisei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83430669671698432
+    m_Key: Fauna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83430669717835776
+    m_Key: Olie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84935319243689984
+    m_Key: Kobo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105011384678846464
+    m_Key: Sora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105011384724983808
+    m_Key: Miko
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8853002208458047497
+  references:
+    version: 2
+    RefIds:
+    - rid: 8853002208458047497
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1711701317885

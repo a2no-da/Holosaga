@@ -1,0 +1,9 @@
+sheep_parts.png
+size:237,178
+filter:Linear,Linear
+pma:true
+1
+bounds:196,133,39,43
+offsets:1,0,40,43
+sheep
+bounds:2,2,192,174

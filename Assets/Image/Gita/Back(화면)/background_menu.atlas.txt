@@ -1,0 +1,16 @@
+background_menu.png
+size:3997,2516
+filter:Linear,Linear
+pma:true
+0
+bounds:2,378,1920,1080
+1
+bounds:2,1460,3993,1054
+offsets:0,1,3993,1055
+2
+bounds:1924,2,631,559
+3
+bounds:2557,2,631,559
+4
+bounds:1924,563,1920,895
+offsets:0,0,1920,1080

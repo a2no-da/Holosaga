@@ -1,0 +1,21 @@
+shioko_parts.png
+size:513,105
+filter:Linear,Linear
+pma:true
+shadow
+bounds:385,69,120,34
+레이어 16
+bounds:385,35,80,32
+레이어 4 복사 3
+bounds:2,13,141,90
+폴더 1
+bounds:145,3,118,100
+offsets:1,0,119,100
+폴더 13
+bounds:385,2,31,41
+rotate:90
+폴더 14
+bounds:467,22,44,45
+폴더 5
+bounds:265,3,100,118
+rotate:90

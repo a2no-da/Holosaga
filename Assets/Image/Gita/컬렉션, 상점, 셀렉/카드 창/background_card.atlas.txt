@@ -1,0 +1,12 @@
+background_card.png
+size:1924,724
+filter:Linear,Linear
+pma:true
+1
+bounds:2,168,1920,554
+offsets:0,526,1920,1080
+2
+bounds:2,2,180,164
+offsets:1,1,183,167
+일러스트
+bounds:184,150,16,16

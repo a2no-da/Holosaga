@@ -1,0 +1,59 @@
+kobo_VFX_pattern3.png
+size:2014,1649
+filter:Linear,Linear
+pma:true
+1
+bounds:2,515,532,536
+offsets:1,4,536,540
+rotate:90
+1-1
+bounds:1358,1147,500,500
+2
+bounds:687,639,720,506
+offsets:22,14,769,520
+2-1
+bounds:2,1049,683,505
+3
+bounds:2,1626,21,116
+offsets:239,43,500,200
+rotate:90
+6
+bounds:466,1556,91,331
+rotate:90
+7
+bounds:120,1626,21,246
+offsets:0,8,22,261
+rotate:90
+8
+bounds:400,1583,64,64
+offsets:1,0,65,65
+애니메이션/애니메이션 폴더/1
+bounds:799,1157,490,557
+offsets:155,27,800,800
+rotate:90
+애니메이션/애니메이션 폴더/2
+bounds:540,94,577,543
+offsets:116,35,800,800
+애니메이션/애니메이션 폴더/3
+bounds:1409,622,603,523
+offsets:105,51,800,800
+애니메이션/애니메이션 폴더/6
+bounds:1119,2,694,618
+offsets:67,89,800,800
+애니메이션2/애니메이션 폴더/7
+bounds:368,1617,30,30
+
+kobo_VFX_pattern3_2.png
+size:1996,656
+filter:Linear,Linear
+pma:true
+light
+bounds:1347,6,647,648
+offsets:25,25,697,697
+애니메이션/애니메이션 폴더/4
+bounds:688,8,646,657
+offsets:91,60,800,800
+rotate:90
+애니메이션/애니메이션 폴더/5
+bounds:2,2,684,652
+offsets:72,63,800,800

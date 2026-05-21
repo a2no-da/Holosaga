@@ -1,0 +1,14 @@
+sora_VFX_pattern2.png
+size:282,108
+filter:Linear,Linear
+pma:true
+1
+bounds:71,5,101,101
+offsets:2,3,104,106
+2
+bounds:174,2,104,106
+offsets:0,1,104,107
+rotate:90
+5
+bounds:2,39,67,67
+offsets:2,1,70,70
