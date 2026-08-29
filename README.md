@@ -4,7 +4,13 @@ HOLOSAGA: Invasion of the HoloX
 
 Steam
 
-<!-- 여기에 인게임 스크린샷 또는 GIF 1~2개 삽입 --> <!-- ![gameplay](docs/gameplay.gif) -->
+<img width="1144" height="637" alt="title" src="https://github.com/user-attachments/assets/32642660-93cb-46ee-be0a-3bfc97342865" />
+<img width="805" height="450" alt="screenshot_boss2" src="https://github.com/user-attachments/assets/8099b9fe-9dcc-4ec7-be43-353d0027f2db" />
+<img width="805" height="456" alt="screenshot_boss5" src="https://github.com/user-attachments/assets/167ca723-b5b0-4369-8368-24a7fc9c41a6" />
+<img width="804" height="452" alt="screenshot_collection" src="https://github.com/user-attachments/assets/c6359cf1-9708-4b82-9595-90bc61ecf523" />
+<img width="380" height="213" alt="gameplay" src="https://github.com/user-attachments/assets/d49805fe-0347-4fdb-bda4-c46a394254ce" />
+
+
 소개
 
 4개의 라인으로 몰려오는 적과 패턴을 가진 보스를 실시간 유닛 조작으로 막아내는 라인 디펜스 게임입니다. 홀로라이브 버추얼 아이돌 IP를 기반으로 하며, 50개 이상의 캐릭터가 각자 다른 스킬·아티팩트·버프를 가지는 수집형 시스템을 포함합니다.
