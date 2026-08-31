@@ -27,7 +27,7 @@
 <img width="805" height="450" alt="screenshot_boss2" src="https://github.com/user-attachments/assets/8099b9fe-9dcc-4ec7-be43-353d0027f2db" />
 <img width="805" height="456" alt="screenshot_boss5" src="https://github.com/user-attachments/assets/167ca723-b5b0-4369-8368-24a7fc9c41a6" />
 <img width="804" height="452" alt="screenshot_collection" src="https://github.com/user-attachments/assets/c6359cf1-9708-4b82-9595-90bc61ecf523" />
-<img width="380" height="213" alt="gameplay" src="https://github.com/user-attachments/assets/d49805fe-0347-4fdb-bda4-c46a394254ce" />
+<img width="804" height="452" alt="gameplay" src="https://github.com/user-attachments/assets/d49805fe-0347-4fdb-bda4-c46a394254ce" />
 
 
 <a id="소개"></a>
