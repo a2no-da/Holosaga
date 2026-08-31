@@ -122,7 +122,20 @@ Steam: https://store.steampowered.com/app/2899450/HOLOSAGA_Invasion_of_the_HoloX
 
 ## 폴더 구조
 
-```📁 Assets/ ├── 📁 Script/ # 게임 로직 전체 │ ├── 📄 BOSS.cs # 보스 패턴 및 전투 로직 │ ├── 📄 Enemy.cs # 적 유닛 로직 │ ├── 📄 Tower.cs # 타워(캐릭터) 로직, 버프/아티팩트 적용 │ ├── 📄 Unit.cs # 캐릭터/유닛 공통 로직 │ └── 📁 데이터/ # CSV 파싱 및 데이터 관리 ├── 📁 Resources/ # 런타임 로드 데이터 (CSV 등) ├── 📁 Scenes/ # 씬 파일 ├── 📁 Language/ # 로컬라이제이션 데이터 ├── 📁 AddressableAssetsData/ └── 📁 Spine/ # 2D 스켈레탈 애니메이션 리소스```
+```
+📁 Assets/
+├── 📁 Script/                 # 게임 로직 전체
+│   ├── 📄 BOSS.cs             # 보스 패턴 
+│   ├── 📄 Enemy.cs            # 적 유닛 로직
+│   ├── 📄 Tower.cs            # 타워(캐릭터) 로직, 버프/아티팩트 적용
+│   ├── 📄 Unit.cs             # 캐릭터/유닛 공통 로직
+│   └── 📁 데이터/             # CSV 파싱 및 데이터 관리
+├── 📁 Resources/              # 런타임 로드 데이터 (CSV 등)
+├── 📁 Scenes/                 # 씬 파일
+├── 📁 Language/               # 로컬라이제이션 데이터
+├── 📁 AddressableAssetsData/
+└── 📁 Spine/                  # 2D 스켈레탈 애니메이션 리소스
+```
 
 게임 스크립트는 Assets/Script 하위에 있습니다.
 
