@@ -134,8 +134,8 @@ Steam: https://store.steampowered.com/app/2899450/HOLOSAGA_Invasion_of_the_HoloX
 ├── 📁 Scenes/                 # 씬 파일
 ├── 📁 Language/               # 로컬라이제이션 데이터
 ├── 📁 AddressableAssetsData/
-└── 📁 Spine/                  # 2D 스켈레탈 애니메이션 리소스
-```
+└── 📁 Spine/                  # 2D 스켈레탈 애니메이션 리소스```
+
 
 게임 스크립트는 Assets/Script 하위에 있습니다.
 
