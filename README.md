@@ -2,7 +2,21 @@ HOLOSAGA: Invasion of the HoloX
 
 홀로라이브 IP 기반 2D 라인 디펜스 게임 — 기획자 1명과 단둘이 15개월간 개발하여 Steam 정식 출시까지 완료 (평가: Very Positive, 90%)
 
-Steam
+![Unity](https://img.shields.io/badge/Unity-2022.3.8f1-000000?logo=unity)
+![C#](https://img.shields.io/badge/C%23-Unity_Client-239120?logo=csharp)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6)
+![Release](https://img.shields.io/badge/Status-Released_on_Steam-success)
+[![Steam](https://img.shields.io/badge/Steam-Store_Page-1b2838?logo=steam)](https://store.steampowered.com/app/2899450/HOLOSAGA_Invasion_of_the_HoloX/)Steam
+
+## 목차
+
+- [소개](#소개)
+- [담당 기능](#담당-기능)
+- [핵심 기술 및 문제 해결](#핵심-기술-및-문제-해결)
+- [한계 및 아쉬운 점](#한계-및-아쉬운-점)
+- [링크](#링크)
+
+---
 
 <img width="1144" height="637" alt="title" src="https://github.com/user-attachments/assets/32642660-93cb-46ee-be0a-3bfc97342865" />
 <img width="805" height="450" alt="screenshot_boss2" src="https://github.com/user-attachments/assets/8099b9fe-9dcc-4ec7-be43-353d0027f2db" />
@@ -67,6 +81,18 @@ centerX = float.Parse(data["CenterPos"].Split(',')[0], CultureInfo.InvariantCult
 링크
 Steam: https://store.steampowered.com/app/2899450/HOLOSAGA_Invasion_of_the_HoloX/
 인게임 영상: (링크 추가)
+
+## 핵심 코드 바로가기
+
+| 파일 | 설명 |
+|---|---|
+| [`BOSS.cs`](Assets/Script/BOSS.cs) | 보스 다중 패턴 쿨타임 관리, 텔레포트 동기화 |
+| [`Tower.cs`](Assets/Script/Tower.cs) | 캐릭터 버프/아티팩트 적용 로직 |
+| [`Unit.cs`](Assets/Script/Unit.cs) | 캐릭터/유닛 공통 로직, 데이터 파싱 |
+| [`Enemy.cs`](Assets/Script/Enemy.cs) | 적 유닛 이동/행동 로직 |
+
+---
+
 폴더 구조
 Assets/
 ├── Script/          # 게임 로직 전체
@@ -83,3 +109,9 @@ Assets/
 └── Spine/           # 2D 스켈레탈 애니메이션 리소스
 
 게임 스크립트는 Assets/Script 하위에 있습니다.
+
+<div align="center">
+
+**HOLOSAGA: Invasion of the HoloX** · 2인 개발 · 15개월 · Steam 정식 출시
+
+</div>
