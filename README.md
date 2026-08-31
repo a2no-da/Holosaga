@@ -124,6 +124,7 @@ Steam: https://store.steampowered.com/app/2899450/HOLOSAGA_Invasion_of_the_HoloX
 
 ## 폴더 구조
 
+<div align="left">
 ```
 📁 Assets/
 ├── 📁 Script/             # 게임 로직 전체
@@ -139,9 +140,8 @@ Steam: https://store.steampowered.com/app/2899450/HOLOSAGA_Invasion_of_the_HoloX
 └── 📁 Spine/                # 2D 스켈레탈 애니메이션 리소스
 ```
 
-게임 스크립트는 Assets/Script 하위에 있습니다.
-
 <div align="center">
+게임 스크립트는 Assets/Script 하위에 있습니다.
 
 **HOLOSAGA: Invasion of the HoloX** · 2인 개발 · 15개월 · Steam 정식 출시
 
