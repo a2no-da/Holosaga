@@ -125,6 +125,7 @@ Steam: https://store.steampowered.com/app/2899450/HOLOSAGA_Invasion_of_the_HoloX
 ## 폴더 구조
 
 <div align="left">
+  
 ```
 📁 Assets/
 ├── 📁 Script/             # 게임 로직 전체
