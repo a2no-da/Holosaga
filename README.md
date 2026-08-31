@@ -112,7 +112,7 @@ centerX = float.Parse(data["CenterPos"].Split(',')[0], CultureInfo.InvariantCult
 
 Steam: https://store.steampowered.com/app/2899450/HOLOSAGA_Invasion_of_the_HoloX/
 
-인게임 영상: 
+인게임 영상: https://www.youtube.com/watch?v=fex2wgnRLrs
 
 전체 기능 : https://www.youtube.com/watch?v=NaeAwswUQj0 (자막 포함)
   
