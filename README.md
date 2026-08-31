@@ -59,6 +59,8 @@
 
 다만 패턴이 늘어날수록 Pattern1Timer ~ Pattern5Timer처럼 필드가 그대로 늘어나는 구조라, 신규 보스를 추가할 때마다 거의 같은 코드를 반복 작성해야 했습니다. 지금 다시 짠다면 Dictionary<patternId, PatternState> 형태로 일반화해서 패턴을 추가할 때 코드 수정 없이 데이터만 늘리면 되게 만들었을 것 같습니다.
 
+---
+
 2. 애니메이션 이벤트 기반 텔레포트 동기화
 
 보스 텔레포트 연출에서 애니메이션 재생 타이밍과 실제 위치 이동 타이밍이 어긋나면, 이동이 순간적으로 튀어 보이거나 애니메이션 도중 위치가 먼저 바뀌어버리는 문제가 있었습니다. Spine 애니메이션의 특정 프레임에 커스텀 이벤트(teleport)를 심고, AnimationState.Event 콜백에서만 실제 Transform 이동을 실행하도록 로직을 분리해 해결했습니다. 이동 위치는 현재 위치와 같은 라인(y좌표)을 제외한 지점 중 무작위로 골라, 같은 줄로 재텔레포트되는 것도 방지했습니다.
@@ -122,7 +124,7 @@ Steam: https://store.steampowered.com/app/2899450/HOLOSAGA_Invasion_of_the_HoloX
 
 ## 폴더 구조
 
-```
+
 📁 Assets/
 ├── 📁 Script/             # 게임 로직 전체
 │   ├── 📄 BOSS.cs           # 보스 패턴 
@@ -135,7 +137,7 @@ Steam: https://store.steampowered.com/app/2899450/HOLOSAGA_Invasion_of_the_HoloX
 ├── 📁 Language/             # 로컬라이제이션 데이터
 ├── 📁 AddressableAssetsData/
 └── 📁 Spine/                # 2D 스켈레탈 애니메이션 리소스
-```
+
 
 게임 스크립트는 Assets/Script 하위에 있습니다.
 
